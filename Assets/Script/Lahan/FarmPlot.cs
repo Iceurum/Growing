@@ -26,6 +26,13 @@ public class FarmPlot : MonoBehaviour {
         }
     }
 
+    public void OnTimeTick() {
+        if (currentCrop != null && isWatered) {
+            currentCrop.Grow();
+        }
+        isWatered = false;
+    }
+
     public bool IsReady() {
         return currentCrop != null && currentCrop.IsReady();
     }
