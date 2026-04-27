@@ -11,9 +11,7 @@ public class Inventory : MonoBehaviour {
         } else {
             items[itemName] = amount;
         }
-        Debug.Log(itemName + " x" + items[itemName]);
     }
-
     public Dictionary<string, int> GetItems() {
         return items;
     }

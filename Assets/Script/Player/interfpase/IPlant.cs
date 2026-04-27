@@ -2,5 +2,5 @@ using UnityEngine;
 
 public interface IPlant
 {
-    void Plant(Crop crop);
+    void Plant(GameObject cropPrefab);
 }

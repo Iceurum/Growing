@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour {
     }
 
     private void Update() {
-        Vector3 movement = new Vector3(moveDir.x, 0f, moveDir.y);
+        Vector3 movement = new Vector3(moveDir.x, moveDir.y, 0f);
         transform.Translate(movement * speed * Time.deltaTime);
     }
 }

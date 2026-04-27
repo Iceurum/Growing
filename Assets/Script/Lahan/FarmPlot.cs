@@ -13,8 +13,10 @@ public class FarmPlot : MonoBehaviour {
         return isWatered;
     }
 
-    public void PlantCrop(Crop crop) {
-        currentCrop = crop;
+    public void PlantCrop(GameObject cropPrefab) {
+        Vector3 spawnPos = new Vector3(transform.position.x, transform.position.y, 0f);
+        GameObject obj = Instantiate(cropPrefab, spawnPos, Quaternion.identity);
+        currentCrop = obj.GetComponent<Crop>();
         isWatered = false;
         Debug.Log("Benih ditanam!");
     }
@@ -39,22 +41,21 @@ public class FarmPlot : MonoBehaviour {
 
     public Crop GetCrop() {
         Crop harvested = currentCrop;
+        Destroy(currentCrop.gameObject);
         currentCrop = null;
         isWatered = false;
         return harvested;
     }
 
-    private void OnTriggerEnter(Collider other) {
+    private void OnTriggerEnter2D(Collider2D other) {
         if (other.CompareTag("Player")) {
             other.GetComponent<Player>().currentPlot = this;
-            Debug.Log("Player mendekati lahan");
         }
     }
 
-    private void OnTriggerExit(Collider other) {
+    private void OnTriggerExit2D(Collider2D other) {
         if (other.CompareTag("Player")) {
             other.GetComponent<Player>().currentPlot = null;
-            Debug.Log("Player meninggalkan lahan");
         }
     }
 }

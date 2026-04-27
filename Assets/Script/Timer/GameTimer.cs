@@ -14,6 +14,7 @@ public class GameTimer : MonoBehaviour {
         if (timer >= interval) {
             timer = 0f;
             onTick.Invoke();
+            Debug.Log("Sudah 1 jam waktunya siram"); 
         }
     }
 }
