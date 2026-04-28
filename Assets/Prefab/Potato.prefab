@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5420961651955064709}
   - component: {fileID: 4487601416961084249}
-  - component: {fileID: -377362069536783417}
+  - component: {fileID: 5496194670324096188}
   m_Layer: 0
   m_Name: Potato
   m_TagString: Untagged
@@ -92,7 +92,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &-377362069536783417
+--- !u!114 &5496194670324096188
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -104,5 +104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33a48d91c25947c468567ed007b187df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Potato
+  cropName: 
   hoursToGrow: 5
   currentHour: 0

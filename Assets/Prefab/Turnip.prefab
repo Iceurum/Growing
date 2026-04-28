@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6708565850300375343}
   - component: {fileID: 6705249428654627212}
-  - component: {fileID: -5860050959870213145}
+  - component: {fileID: -8422795242411703282}
   m_Layer: 0
   m_Name: Turnip
   m_TagString: Untagged
@@ -92,7 +92,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &-5860050959870213145
+--- !u!114 &-8422795242411703282
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -104,5 +104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e219f0de1a01b5742be9f119e94343f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Turnip
+  cropName: 
   hoursToGrow: 3
   currentHour: 0

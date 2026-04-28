@@ -1,14 +1,15 @@
 using UnityEngine;
 
-public abstract class Crop : MonoBehaviour
-{
+public abstract class Crop : MonoBehaviour {
+
+    public string cropName;
     public int hoursToGrow;
     public int currentHour;
 
     public virtual void Grow() {
         if (currentHour < hoursToGrow) {
             currentHour++;
-            Debug.Log(name + " tumbuh! Jam: " + currentHour + "/" + hoursToGrow);
+            Debug.Log(cropName + " tumbuh! Jam: " + currentHour + "/" + hoursToGrow);
         }
     }
 
@@ -17,5 +18,4 @@ public abstract class Crop : MonoBehaviour
     }
 
     public abstract void Harvest();
-    
 }

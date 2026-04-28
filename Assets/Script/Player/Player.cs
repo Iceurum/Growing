@@ -1,29 +1,48 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class Player : MonoBehaviour, IPlant, IWater, IHarvest
-{
-    
+public class Player : MonoBehaviour {
+
+    [Header("References")]
     public InventoryManager inventoryManager;
-    public GameObject turnipCropPrefab;
-    public GameObject potatoCropPrefab;
-    
+    public InputActionAsset inputActions;
+
+    [Header("Seed Prefabs")]
+    // Tambah prefab biji baru cukup drag ke list ini di Inspector
+    public List<GameObject> seedPrefabs = new List<GameObject>();
+
     [HideInInspector] public FarmPlot currentPlot;
-    private GameObject selectedCropPrefab;
 
-    private void Start() {
-        selectedCropPrefab = turnipCropPrefab;
+    private int selectedIndex = 0;
+    private GameObject selectedCropPrefab => 
+        seedPrefabs.Count > 0 ? seedPrefabs[selectedIndex] : null;
+
+    private InputAction switchSeedAction;
+
+    private void Awake() {
+        var playerMap   = inputActions.FindActionMap("Player", throwIfNotFound: true);
+        switchSeedAction = playerMap.FindAction("SwitchSeed", throwIfNotFound: true);
     }
 
-    private void Update() {
-        if (Keyboard.current.qKey.wasPressedThisFrame) {
-            selectedCropPrefab = selectedCropPrefab == turnipCropPrefab ? potatoCropPrefab : turnipCropPrefab;
-            Debug.Log("Benih dipilih: " + selectedCropPrefab.name);
-        }
+    private void OnEnable() {
+        switchSeedAction.Enable();
+        switchSeedAction.performed += HandleSwitchSeed;
     }
 
+    private void OnDisable() {
+        switchSeedAction.performed -= HandleSwitchSeed;
+        switchSeedAction.Disable();
+    }
+
+    private void HandleSwitchSeed(InputAction.CallbackContext ctx) {
+        if (seedPrefabs.Count == 0) return;
+        selectedIndex = (selectedIndex + 1) % seedPrefabs.Count;
+        Debug.Log("Benih dipilih: " + selectedCropPrefab.name);
+    }
+
+    // Dipanggil oleh PlayerInput.onInteract via UnityEvent
     public void OnInteract() {
-        Debug.Log("OnInteract dipanggil! currentPlot: " + currentPlot);
         if (currentPlot == null) return;
 
         if (currentPlot.IsReady()) {
@@ -36,9 +55,14 @@ public class Player : MonoBehaviour, IPlant, IWater, IHarvest
     }
 
     public void Plant(GameObject cropPrefab) {
+        if (cropPrefab == null) {
+            Debug.LogWarning("Tidak ada benih yang dipilih!");
+            return;
+        }
         currentPlot.PlantCrop(cropPrefab);
         Debug.Log("Menanam " + cropPrefab.name);
     }
+
     public void Water() {
         currentPlot.WaterCrop();
         Debug.Log("Menyiram tanaman");
@@ -46,9 +70,8 @@ public class Player : MonoBehaviour, IPlant, IWater, IHarvest
 
     public void Harvest() {
         Crop crop = currentPlot.GetCrop();
-        string cropName = crop.name; 
         crop.Harvest();
-        inventoryManager.AddItem(crop.name, 1);
-        Debug.Log("Memanen " + crop.name);
+        inventoryManager.AddItem(crop.cropName, 1);
+        Debug.Log("Memanen " + crop.cropName);
     }
 }
