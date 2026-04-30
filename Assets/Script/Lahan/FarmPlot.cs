@@ -32,6 +32,19 @@ public class FarmPlot : MonoBehaviour {
         Debug.Log("Benih ditanam!");
     }
 
+    public bool FertilizeCrop() {
+        if (currentCrop == null) return false;
+ 
+        IFertilizable fertilizable = currentCrop.GetComponent<IFertilizable>();
+        if (fertilizable != null) {
+            fertilizable.Fertilize();
+            return true;
+        } else {
+            Debug.Log(currentCrop.cropName + " tidak bisa dipupuk!");
+            return false;
+        }
+    }
+
     public void WaterCrop() {
         if (currentCrop != null) {
             isWatered = true;

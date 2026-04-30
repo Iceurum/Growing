@@ -9,20 +9,23 @@ public class Player : MonoBehaviour {
     public InputActionAsset inputActions;
 
     [Header("Seed Prefabs")]
-    // Tambah prefab biji baru cukup drag ke list ini di Inspector
     public List<GameObject> seedPrefabs = new List<GameObject>();
+
+    [Header("Fertilizer")]
+    public int fertilizerStock = 5;
 
     [HideInInspector] public FarmPlot currentPlot;
 
     private int selectedIndex = 0;
-    private GameObject selectedCropPrefab => 
+    public GameObject selectedCropPrefab =>
         seedPrefabs.Count > 0 ? seedPrefabs[selectedIndex] : null;
+    public int SelectedIndex => selectedIndex;
 
     private InputAction switchSeedAction;
 
     private void Awake() {
-        var playerMap   = inputActions.FindActionMap("Player", throwIfNotFound: true);
-        switchSeedAction = playerMap.FindAction("SwitchSeed", throwIfNotFound: true);
+        var playerMap    = inputActions.FindActionMap("Player", throwIfNotFound: true);
+        switchSeedAction = playerMap.FindAction("SwitchSeed",  throwIfNotFound: true);
     }
 
     private void OnEnable() {
@@ -41,7 +44,6 @@ public class Player : MonoBehaviour {
         Debug.Log("Benih dipilih: " + selectedCropPrefab.name);
     }
 
-    // Dipanggil oleh PlayerInput.onInteract via UnityEvent
     public void OnInteract() {
         if (currentPlot == null) return;
 
@@ -51,6 +53,22 @@ public class Player : MonoBehaviour {
             Water();
         } else if (currentPlot.IsEmpty()) {
             Plant(selectedCropPrefab);
+        }
+    }
+
+    public void OnFertilize() {
+        if (currentPlot == null || currentPlot.IsEmpty()) {
+            Debug.Log("Tidak ada tanaman di plot ini!");
+            return;
+        }
+        if (fertilizerStock <= 0) {
+            Debug.Log("Pupuk habis!");
+            return;
+        }
+        bool success = currentPlot.FertilizeCrop();
+        if (success) {
+            fertilizerStock--;
+            Debug.Log("Pupuk dipakai! Sisa: " + fertilizerStock);
         }
     }
 
