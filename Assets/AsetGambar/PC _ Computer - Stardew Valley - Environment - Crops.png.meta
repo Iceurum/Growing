@@ -1186,12 +1186,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 802
-        width: 12
-        height: 10
+        x: 3
+        y: 803
+        width: 10
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1208,12 +1208,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 802
-        width: 11
-        height: 10
+        x: 19
+        y: 803
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1230,12 +1230,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_2
       rect:
         serializedVersion: 2
-        x: 33
-        y: 804
-        width: 13
-        height: 8
+        x: 34
+        y: 805
+        width: 11
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1252,12 +1252,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_3
       rect:
         serializedVersion: 2
-        x: 49
-        y: 803
-        width: 15
-        height: 9
+        x: 50
+        y: 804
+        width: 13
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1274,12 +1274,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 802
-        width: 16
-        height: 15
+        x: 65
+        y: 803
+        width: 14
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1296,12 +1296,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 802
-        width: 17
-        height: 18
+        x: 81
+        y: 803
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1318,12 +1318,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_6
       rect:
         serializedVersion: 2
-        x: 132
-        y: 802
-        width: 10
-        height: 25
+        x: 133
+        y: 803
+        width: 8
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1340,12 +1340,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_7
       rect:
         serializedVersion: 2
-        x: 147
-        y: 802
-        width: 9
-        height: 25
+        x: 148
+        y: 803
+        width: 7
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1362,12 +1362,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_8
       rect:
         serializedVersion: 2
-        x: 162
-        y: 803
-        width: 13
-        height: 24
+        x: 163
+        y: 804
+        width: 11
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1384,12 +1384,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_9
       rect:
         serializedVersion: 2
-        x: 176
-        y: 803
-        width: 14
-        height: 24
+        x: 177
+        y: 804
+        width: 12
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1406,12 +1406,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_10
       rect:
         serializedVersion: 2
-        x: 193
-        y: 802
-        width: 14
-        height: 25
+        x: 194
+        y: 803
+        width: 12
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1428,12 +1428,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_11
       rect:
         serializedVersion: 2
-        x: 208
-        y: 802
-        width: 15
-        height: 25
+        x: 209
+        y: 803
+        width: 13
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1450,12 +1450,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_12
       rect:
         serializedVersion: 2
-        x: 224
-        y: 802
-        width: 15
-        height: 29
+        x: 225
+        y: 803
+        width: 13
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1472,12 +1472,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_13
       rect:
         serializedVersion: 2
-        x: 240
-        y: 802
-        width: 15
-        height: 29
+        x: 241
+        y: 803
+        width: 13
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1494,12 +1494,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_14
       rect:
         serializedVersion: 2
-        x: 2
-        y: 772
-        width: 11
-        height: 10
+        x: 3
+        y: 773
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1516,12 +1516,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_15
       rect:
         serializedVersion: 2
-        x: 8
-        y: 770
-        width: 6
-        height: 6
+        x: 9
+        y: 771
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1538,12 +1538,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_16
       rect:
         serializedVersion: 2
-        x: 19
-        y: 771
-        width: 6
-        height: 6
+        x: 20
+        y: 772
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1560,12 +1560,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_17
       rect:
         serializedVersion: 2
-        x: 24
-        y: 773
-        width: 6
-        height: 6
+        x: 25
+        y: 774
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1582,12 +1582,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_18
       rect:
         serializedVersion: 2
-        x: 35
-        y: 772
-        width: 9
-        height: 6
+        x: 37
+        y: 773
+        width: 6
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1604,12 +1604,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_19
       rect:
         serializedVersion: 2
-        x: 51
-        y: 772
-        width: 11
-        height: 10
+        x: 52
+        y: 773
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1626,12 +1626,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_20
       rect:
         serializedVersion: 2
-        x: 64
-        y: 770
-        width: 16
-        height: 13
+        x: 65
+        y: 771
+        width: 14
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1648,12 +1648,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_21
       rect:
         serializedVersion: 2
-        x: 79
-        y: 770
-        width: 17
-        height: 14
+        x: 80
+        y: 771
+        width: 15
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1670,12 +1670,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_22
       rect:
         serializedVersion: 2
-        x: 95
-        y: 768
-        width: 18
-        height: 17
+        x: 96
+        y: 769
+        width: 16
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1692,12 +1692,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_23
       rect:
         serializedVersion: 2
-        x: 130
-        y: 738
-        width: 10
-        height: 40
+        x: 131
+        y: 739
+        width: 8
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1714,12 +1714,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_24
       rect:
         serializedVersion: 2
-        x: 149
-        y: 771
-        width: 8
-        height: 8
+        x: 150
+        y: 772
+        width: 6
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1736,12 +1736,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_25
       rect:
         serializedVersion: 2
-        x: 165
-        y: 772
-        width: 6
-        height: 8
+        x: 166
+        y: 773
+        width: 4
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1758,12 +1758,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_26
       rect:
         serializedVersion: 2
-        x: 180
-        y: 772
-        width: 10
-        height: 10
+        x: 181
+        y: 773
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1780,12 +1780,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_27
       rect:
         serializedVersion: 2
-        x: 194
-        y: 771
-        width: 12
-        height: 13
+        x: 195
+        y: 772
+        width: 10
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1802,12 +1802,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_28
       rect:
         serializedVersion: 2
-        x: 209
-        y: 771
-        width: 14
-        height: 16
+        x: 210
+        y: 772
+        width: 12
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1824,12 +1824,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_29
       rect:
         serializedVersion: 2
-        x: 225
-        y: 770
-        width: 15
-        height: 20
+        x: 226
+        y: 771
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1846,12 +1846,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_30
       rect:
         serializedVersion: 2
-        x: 4
-        y: 740
-        width: 25
-        height: 7
+        x: 5
+        y: 741
+        width: 23
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1868,12 +1868,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_31
       rect:
         serializedVersion: 2
-        x: 36
-        y: 740
-        width: 7
-        height: 7
+        x: 37
+        y: 741
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1890,12 +1890,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_32
       rect:
         serializedVersion: 2
-        x: 51
-        y: 739
-        width: 9
-        height: 11
+        x: 52
+        y: 740
+        width: 7
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1912,12 +1912,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_33
       rect:
         serializedVersion: 2
-        x: 65
-        y: 739
-        width: 15
-        height: 16
+        x: 66
+        y: 740
+        width: 13
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1934,12 +1934,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_34
       rect:
         serializedVersion: 2
-        x: 81
-        y: 739
-        width: 15
-        height: 20
+        x: 82
+        y: 740
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1956,12 +1956,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_35
       rect:
         serializedVersion: 2
-        x: 146
-        y: 739
-        width: 27
-        height: 9
+        x: 147
+        y: 740
+        width: 25
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1978,12 +1978,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_36
       rect:
         serializedVersion: 2
-        x: 177
-        y: 740
-        width: 14
-        height: 13
+        x: 178
+        y: 741
+        width: 12
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2000,12 +2000,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_37
       rect:
         serializedVersion: 2
-        x: 191
-        y: 738
-        width: 34
-        height: 22
+        x: 192
+        y: 739
+        width: 32
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2022,12 +2022,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_38
       rect:
         serializedVersion: 2
-        x: 5
-        y: 708
-        width: 22
-        height: 6
+        x: 6
+        y: 709
+        width: 20
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2044,12 +2044,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_39
       rect:
         serializedVersion: 2
-        x: 36
-        y: 708
-        width: 7
-        height: 7
+        x: 37
+        y: 709
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2066,12 +2066,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_40
       rect:
         serializedVersion: 2
-        x: 51
-        y: 708
-        width: 11
-        height: 8
+        x: 52
+        y: 709
+        width: 9
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2088,12 +2088,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_41
       rect:
         serializedVersion: 2
-        x: 66
-        y: 708
-        width: 12
-        height: 11
+        x: 67
+        y: 709
+        width: 10
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2110,12 +2110,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_42
       rect:
         serializedVersion: 2
-        x: 82
-        y: 708
-        width: 12
-        height: 15
+        x: 83
+        y: 709
+        width: 10
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2132,12 +2132,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_43
       rect:
         serializedVersion: 2
-        x: 98
-        y: 708
-        width: 13
-        height: 21
+        x: 99
+        y: 709
+        width: 11
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2154,12 +2154,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_44
       rect:
         serializedVersion: 2
-        x: 131
-        y: 707
-        width: 7
-        height: 7
+        x: 132
+        y: 708
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2176,12 +2176,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_45
       rect:
         serializedVersion: 2
-        x: 148
-        y: 708
-        width: 8
-        height: 6
+        x: 149
+        y: 709
+        width: 6
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2198,12 +2198,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_46
       rect:
         serializedVersion: 2
-        x: 162
-        y: 707
-        width: 11
-        height: 8
+        x: 163
+        y: 708
+        width: 9
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2220,12 +2220,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_47
       rect:
         serializedVersion: 2
-        x: 177
-        y: 705
-        width: 13
-        height: 13
+        x: 178
+        y: 706
+        width: 11
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2242,12 +2242,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_48
       rect:
         serializedVersion: 2
-        x: 192
-        y: 705
-        width: 15
-        height: 16
+        x: 193
+        y: 706
+        width: 13
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2264,12 +2264,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_49
       rect:
         serializedVersion: 2
-        x: 209
-        y: 705
-        width: 15
-        height: 20
+        x: 210
+        y: 707
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2286,12 +2286,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_50
       rect:
         serializedVersion: 2
-        x: 224
-        y: 705
-        width: 17
-        height: 23
+        x: 225
+        y: 707
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2308,12 +2308,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_51
       rect:
         serializedVersion: 2
-        x: 2
-        y: 674
-        width: 12
-        height: 9
+        x: 3
+        y: 675
+        width: 10
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2330,12 +2330,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_52
       rect:
         serializedVersion: 2
-        x: 20
-        y: 675
-        width: 25
-        height: 11
+        x: 21
+        y: 676
+        width: 23
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2352,12 +2352,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_53
       rect:
         serializedVersion: 2
-        x: 50
-        y: 675
-        width: 14
-        height: 15
+        x: 51
+        y: 676
+        width: 12
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2374,12 +2374,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_54
       rect:
         serializedVersion: 2
-        x: 65
-        y: 675
-        width: 15
-        height: 19
+        x: 66
+        y: 676
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2396,12 +2396,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_55
       rect:
         serializedVersion: 2
-        x: 82
-        y: 674
-        width: 14
-        height: 22
+        x: 83
+        y: 675
+        width: 12
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2418,12 +2418,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_56
       rect:
         serializedVersion: 2
-        x: 97
-        y: 674
-        width: 15
-        height: 24
+        x: 98
+        y: 675
+        width: 13
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2440,12 +2440,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_57
       rect:
         serializedVersion: 2
-        x: 113
-        y: 674
-        width: 29
-        height: 20
+        x: 114
+        y: 675
+        width: 27
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2462,12 +2462,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_58
       rect:
         serializedVersion: 2
-        x: 147
-        y: 675
-        width: 24
-        height: 10
+        x: 148
+        y: 676
+        width: 22
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2484,12 +2484,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_59
       rect:
         serializedVersion: 2
-        x: 178
-        y: 675
-        width: 12
-        height: 15
+        x: 179
+        y: 676
+        width: 10
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2506,12 +2506,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_60
       rect:
         serializedVersion: 2
-        x: 192
-        y: 675
-        width: 17
-        height: 21
+        x: 193
+        y: 676
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2528,12 +2528,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_61
       rect:
         serializedVersion: 2
-        x: 208
-        y: 675
-        width: 17
-        height: 25
+        x: 209
+        y: 676
+        width: 15
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2550,12 +2550,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_62
       rect:
         serializedVersion: 2
-        x: 224
-        y: 675
-        width: 17
-        height: 25
+        x: 225
+        y: 676
+        width: 15
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2572,12 +2572,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_63
       rect:
         serializedVersion: 2
-        x: 240
-        y: 675
-        width: 16
-        height: 25
+        x: 241
+        y: 676
+        width: 15
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2594,12 +2594,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_64
       rect:
         serializedVersion: 2
-        x: 2
-        y: 642
-        width: 9
-        height: 10
+        x: 3
+        y: 643
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2616,12 +2616,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_65
       rect:
         serializedVersion: 2
-        x: 7
-        y: 647
-        width: 6
-        height: 6
+        x: 8
+        y: 648
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2638,12 +2638,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_66
       rect:
         serializedVersion: 2
-        x: 18
-        y: 643
-        width: 6
-        height: 6
+        x: 19
+        y: 644
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2660,12 +2660,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_67
       rect:
         serializedVersion: 2
-        x: 20
-        y: 644
-        width: 9
-        height: 10
+        x: 21
+        y: 645
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2682,12 +2682,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_68
       rect:
         serializedVersion: 2
-        x: 34
-        y: 643
-        width: 13
-        height: 8
+        x: 35
+        y: 644
+        width: 11
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2704,12 +2704,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_69
       rect:
         serializedVersion: 2
-        x: 49
-        y: 643
-        width: 15
-        height: 12
+        x: 50
+        y: 644
+        width: 13
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2726,12 +2726,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_70
       rect:
         serializedVersion: 2
-        x: 65
-        y: 643
-        width: 15
-        height: 18
+        x: 66
+        y: 644
+        width: 13
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2748,12 +2748,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_71
       rect:
         serializedVersion: 2
-        x: 81
-        y: 642
-        width: 15
-        height: 20
+        x: 82
+        y: 643
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2770,12 +2770,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_72
       rect:
         serializedVersion: 2
-        x: 96
-        y: 642
-        width: 16
-        height: 23
+        x: 97
+        y: 643
+        width: 14
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2792,12 +2792,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_73
       rect:
         serializedVersion: 2
-        x: 113
-        y: 641
-        width: 31
-        height: 24
+        x: 114
+        y: 642
+        width: 29
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2814,12 +2814,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_74
       rect:
         serializedVersion: 2
-        x: 145
-        y: 641
-        width: 29
-        height: 13
+        x: 146
+        y: 642
+        width: 27
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2836,12 +2836,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_75
       rect:
         serializedVersion: 2
-        x: 175
-        y: 639
-        width: 50
-        height: 29
+        x: 176
+        y: 640
+        width: 48
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2858,12 +2858,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_76
       rect:
         serializedVersion: 2
-        x: 1
-        y: 611
-        width: 11
+        x: 3
+        y: 610
+        width: 9
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2880,12 +2880,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_77
       rect:
         serializedVersion: 2
-        x: 7
-        y: 609
-        width: 6
-        height: 6
+        x: 20
+        y: 612
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2902,12 +2902,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_78
       rect:
         serializedVersion: 2
-        x: 19
-        y: 611
-        width: 12
-        height: 10
+        x: 37
+        y: 613
+        width: 7
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2924,12 +2924,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_79
       rect:
         serializedVersion: 2
-        x: 36
+        x: 51
         y: 612
-        width: 9
-        height: 8
+        width: 11
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2946,12 +2946,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_80
       rect:
         serializedVersion: 2
-        x: 50
-        y: 611
-        width: 13
+        x: 67
+        y: 612
+        width: 11
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2968,12 +2968,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_81
       rect:
         serializedVersion: 2
-        x: 66
-        y: 611
-        width: 13
-        height: 13
+        x: 84
+        y: 612
+        width: 11
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2990,12 +2990,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_82
       rect:
         serializedVersion: 2
-        x: 83
+        x: 130
         y: 611
-        width: 13
-        height: 14
+        width: 10
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3012,12 +3012,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_83
       rect:
         serializedVersion: 2
-        x: 129
-        y: 610
-        width: 12
-        height: 9
+        x: 149
+        y: 611
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3034,12 +3034,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_84
       rect:
         serializedVersion: 2
-        x: 148
-        y: 610
-        width: 11
-        height: 9
+        x: 164
+        y: 613
+        width: 8
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3056,12 +3056,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_85
       rect:
         serializedVersion: 2
-        x: 163
-        y: 612
-        width: 10
+        x: 177
+        y: 611
+        width: 13
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3078,12 +3078,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_86
       rect:
         serializedVersion: 2
-        x: 176
-        y: 610
-        width: 15
-        height: 11
+        x: 193
+        y: 609
+        width: 14
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3100,12 +3100,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_87
       rect:
         serializedVersion: 2
-        x: 192
+        x: 208
         y: 608
-        width: 16
-        height: 16
+        width: 32
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3122,12 +3122,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_88
       rect:
         serializedVersion: 2
-        x: 207
-        y: 607
-        width: 34
-        height: 21
+        x: 3
+        y: 583
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3144,12 +3144,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_89
       rect:
         serializedVersion: 2
-        x: 2
-        y: 582
-        width: 6
-        height: 6
+        x: 8
+        y: 585
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3166,12 +3166,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_90
       rect:
         serializedVersion: 2
-        x: 2
-        y: 546
-        width: 27
-        height: 39
+        x: 19
+        y: 581
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3188,12 +3188,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_91
       rect:
         serializedVersion: 2
-        x: 7
-        y: 584
-        width: 6
-        height: 6
+        x: 36
+        y: 580
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3210,12 +3210,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_92
       rect:
         serializedVersion: 2
-        x: 18
+        x: 50
         y: 580
-        width: 9
+        width: 13
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3232,12 +3232,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_93
       rect:
         serializedVersion: 2
-        x: 23
+        x: 67
         y: 579
-        width: 6
-        height: 6
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3254,12 +3254,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_94
       rect:
         serializedVersion: 2
-        x: 35
+        x: 83
         y: 579
         width: 11
-        height: 10
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3276,12 +3276,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_95
       rect:
         serializedVersion: 2
-        x: 49
+        x: 99
         y: 579
-        width: 15
-        height: 12
+        width: 11
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3298,12 +3298,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_96
       rect:
         serializedVersion: 2
-        x: 65
-        y: 578
-        width: 14
-        height: 16
+        x: 115
+        y: 579
+        width: 11
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3320,12 +3320,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_97
       rect:
         serializedVersion: 2
-        x: 81
-        y: 578
-        width: 14
-        height: 21
+        x: 130
+        y: 580
+        width: 5
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3342,12 +3342,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_98
       rect:
         serializedVersion: 2
-        x: 97
-        y: 578
-        width: 14
-        height: 26
+        x: 135
+        y: 585
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3364,12 +3364,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_99
       rect:
         serializedVersion: 2
-        x: 113
-        y: 578
-        width: 14
-        height: 26
+        x: 147
+        y: 584
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3386,12 +3386,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_100
       rect:
         serializedVersion: 2
-        x: 129
-        y: 579
-        width: 7
-        height: 11
+        x: 153
+        y: 586
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3408,12 +3408,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_101
       rect:
         serializedVersion: 2
-        x: 134
-        y: 584
+        x: 165
+        y: 580
         width: 7
-        height: 6
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3430,12 +3430,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_102
       rect:
         serializedVersion: 2
-        x: 146
-        y: 583
-        width: 7
-        height: 7
+        x: 180
+        y: 579
+        width: 9
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3452,12 +3452,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_103
       rect:
         serializedVersion: 2
-        x: 151
-        y: 580
-        width: 8
-        height: 6
+        x: 196
+        y: 579
+        width: 9
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3474,12 +3474,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_104
       rect:
         serializedVersion: 2
-        x: 152
-        y: 585
-        width: 6
-        height: 6
+        x: 211
+        y: 579
+        width: 11
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3496,12 +3496,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_105
       rect:
         serializedVersion: 2
-        x: 164
-        y: 579
-        width: 9
-        height: 9
+        x: 227
+        y: 578
+        width: 12
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3518,12 +3518,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_106
       rect:
         serializedVersion: 2
-        x: 179
+        x: 243
         y: 578
         width: 11
-        height: 13
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3540,12 +3540,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_107
       rect:
         serializedVersion: 2
-        x: 195
-        y: 578
-        width: 11
-        height: 19
+        x: 3
+        y: 547
+        width: 25
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3562,12 +3562,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_108
       rect:
         serializedVersion: 2
-        x: 210
-        y: 578
-        width: 13
-        height: 24
+        x: 24
+        y: 580
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3584,12 +3584,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_109
       rect:
         serializedVersion: 2
-        x: 226
-        y: 577
-        width: 14
-        height: 31
+        x: 138
+        y: 578
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3606,12 +3606,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_110
       rect:
         serializedVersion: 2
-        x: 242
-        y: 577
-        width: 13
-        height: 31
+        x: 146
+        y: 578
+        width: 6
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3628,12 +3628,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_111
       rect:
         serializedVersion: 2
-        x: 137
-        y: 577
-        width: 7
-        height: 6
+        x: 152
+        y: 581
+        width: 6
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3650,12 +3650,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_112
       rect:
         serializedVersion: 2
-        x: 145
-        y: 577
-        width: 8
-        height: 7
+        x: 35
+        y: 549
+        width: 9
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3672,12 +3672,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_113
       rect:
         serializedVersion: 2
-        x: 34
-        y: 548
+        x: 51
+        y: 549
         width: 11
-        height: 11
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3694,12 +3694,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_114
       rect:
         serializedVersion: 2
-        x: 50
-        y: 548
-        width: 13
-        height: 14
+        x: 66
+        y: 549
+        width: 14
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3716,12 +3716,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_115
       rect:
         serializedVersion: 2
-        x: 65
-        y: 548
-        width: 16
-        height: 19
+        x: 81
+        y: 549
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3738,12 +3738,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_116
       rect:
         serializedVersion: 2
-        x: 80
-        y: 548
-        width: 17
-        height: 22
+        x: 97
+        y: 549
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3760,12 +3760,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_117
       rect:
         serializedVersion: 2
-        x: 96
-        y: 548
-        width: 17
-        height: 22
+        x: 113
+        y: 549
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3782,12 +3782,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_118
       rect:
         serializedVersion: 2
-        x: 112
-        y: 548
-        width: 17
-        height: 22
+        x: 130
+        y: 546
+        width: 10
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3804,12 +3804,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_119
       rect:
         serializedVersion: 2
-        x: 129
+        x: 146
         y: 545
         width: 12
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3826,12 +3826,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_120
       rect:
         serializedVersion: 2
-        x: 145
-        y: 544
-        width: 14
-        height: 15
+        x: 164
+        y: 548
+        width: 8
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3848,12 +3848,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_121
       rect:
         serializedVersion: 2
-        x: 163
-        y: 547
-        width: 10
-        height: 9
+        x: 178
+        y: 548
+        width: 12
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3870,12 +3870,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_122
       rect:
         serializedVersion: 2
-        x: 177
+        x: 192
         y: 547
-        width: 14
-        height: 13
+        width: 63
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3892,12 +3892,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_123
       rect:
         serializedVersion: 2
-        x: 191
-        y: 546
-        width: 65
-        height: 26
+        x: 3
+        y: 516
+        width: 6
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3914,12 +3914,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_124
       rect:
         serializedVersion: 2
-        x: 2
-        y: 515
-        width: 8
-        height: 11
+        x: 9
+        y: 520
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3936,12 +3936,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_125
       rect:
         serializedVersion: 2
-        x: 8
+        x: 22
         y: 519
-        width: 6
-        height: 7
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3958,12 +3958,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_126
       rect:
         serializedVersion: 2
-        x: 18
-        y: 514
+        x: 37
+        y: 517
         width: 6
-        height: 6
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3980,12 +3980,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_127
       rect:
         serializedVersion: 2
-        x: 21
-        y: 518
-        width: 6
-        height: 7
+        x: 50
+        y: 517
+        width: 14
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4002,12 +4002,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_128
       rect:
         serializedVersion: 2
-        x: 23
-        y: 513
-        width: 7
-        height: 6
+        x: 65
+        y: 516
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4024,12 +4024,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_129
       rect:
         serializedVersion: 2
-        x: 36
-        y: 516
-        width: 8
-        height: 10
+        x: 81
+        y: 515
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4046,12 +4046,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_130
       rect:
         serializedVersion: 2
-        x: 49
-        y: 516
+        x: 96
+        y: 515
         width: 16
-        height: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4068,12 +4068,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_131
       rect:
         serializedVersion: 2
-        x: 64
-        y: 515
-        width: 17
-        height: 21
+        x: 132
+        y: 519
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4090,12 +4090,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_132
       rect:
         serializedVersion: 2
-        x: 80
-        y: 514
-        width: 17
-        height: 22
+        x: 137
+        y: 517
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4112,12 +4112,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_133
       rect:
         serializedVersion: 2
-        x: 95
-        y: 514
-        width: 18
-        height: 20
+        x: 148
+        y: 516
+        width: 5
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4134,12 +4134,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_134
       rect:
         serializedVersion: 2
-        x: 131
-        y: 518
+        x: 165
+        y: 517
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4156,12 +4156,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_135
       rect:
         serializedVersion: 2
-        x: 131
-        y: 513
-        width: 6
-        height: 6
+        x: 180
+        y: 517
+        width: 10
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4178,12 +4178,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_136
       rect:
         serializedVersion: 2
-        x: 136
+        x: 194
         y: 516
-        width: 6
-        height: 6
+        width: 13
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4200,12 +4200,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_137
       rect:
         serializedVersion: 2
-        x: 147
-        y: 515
-        width: 7
-        height: 9
+        x: 209
+        y: 516
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4222,12 +4222,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_138
       rect:
         serializedVersion: 2
-        x: 152
-        y: 513
-        width: 6
-        height: 6
+        x: 19
+        y: 515
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4244,12 +4244,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_139
       rect:
         serializedVersion: 2
-        x: 164
-        y: 516
-        width: 8
-        height: 8
+        x: 24
+        y: 514
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4266,12 +4266,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_140
       rect:
         serializedVersion: 2
-        x: 179
-        y: 516
-        width: 12
-        height: 13
+        x: 132
+        y: 514
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4288,12 +4288,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_141
       rect:
         serializedVersion: 2
-        x: 193
-        y: 515
-        width: 15
-        height: 14
+        x: 153
+        y: 514
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4310,12 +4310,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_142
       rect:
         serializedVersion: 2
-        x: 208
-        y: 515
-        width: 17
-        height: 17
+        x: 3
+        y: 483
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4332,12 +4332,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_143
       rect:
         serializedVersion: 2
-        x: 2
-        y: 482
-        width: 11
-        height: 10
+        x: 19
+        y: 489
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4354,12 +4354,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_144
       rect:
         serializedVersion: 2
-        x: 18
-        y: 488
-        width: 6
-        height: 6
+        x: 19
+        y: 484
+        width: 8
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4376,12 +4376,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_145
       rect:
         serializedVersion: 2
-        x: 18
-        y: 483
-        width: 10
-        height: 7
+        x: 36
+        y: 486
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4398,12 +4398,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_146
       rect:
         serializedVersion: 2
-        x: 35
+        x: 50
         y: 485
-        width: 10
-        height: 10
+        width: 13
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4420,12 +4420,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_147
       rect:
         serializedVersion: 2
-        x: 49
-        y: 484
-        width: 15
+        x: 66
+        y: 485
+        width: 13
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4442,12 +4442,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_148
       rect:
         serializedVersion: 2
-        x: 65
-        y: 484
-        width: 15
-        height: 16
+        x: 82
+        y: 485
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4464,12 +4464,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_149
       rect:
         serializedVersion: 2
-        x: 81
-        y: 484
-        width: 15
-        height: 17
+        x: 131
+        y: 489
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4486,12 +4486,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_150
       rect:
         serializedVersion: 2
-        x: 130
+        x: 137
         y: 488
-        width: 6
-        height: 6
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4508,12 +4508,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_151
       rect:
         serializedVersion: 2
-        x: 131
-        y: 483
-        width: 6
-        height: 6
+        x: 152
+        y: 488
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4530,12 +4530,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_152
       rect:
         serializedVersion: 2
-        x: 136
-        y: 487
-        width: 6
-        height: 6
+        x: 163
+        y: 485
+        width: 11
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4552,12 +4552,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_153
       rect:
         serializedVersion: 2
-        x: 146
+        x: 178
         y: 483
-        width: 6
-        height: 6
+        width: 13
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4574,12 +4574,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_154
       rect:
         serializedVersion: 2
-        x: 151
-        y: 487
-        width: 6
-        height: 6
+        x: 194
+        y: 483
+        width: 13
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4596,12 +4596,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_155
       rect:
         serializedVersion: 2
-        x: 152
-        y: 482
-        width: 6
-        height: 6
+        x: 208
+        y: 483
+        width: 48
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4618,12 +4618,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_156
       rect:
         serializedVersion: 2
-        x: 162
+        x: 132
         y: 484
-        width: 13
-        height: 10
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4640,12 +4640,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_157
       rect:
         serializedVersion: 2
-        x: 177
-        y: 482
-        width: 15
-        height: 13
+        x: 147
+        y: 484
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4662,12 +4662,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_158
       rect:
         serializedVersion: 2
-        x: 193
-        y: 482
-        width: 15
-        height: 16
+        x: 153
+        y: 483
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4684,12 +4684,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_159
       rect:
         serializedVersion: 2
-        x: 207
-        y: 482
-        width: 49
-        height: 23
+        x: 3
+        y: 450
+        width: 39
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4706,12 +4706,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_160
       rect:
         serializedVersion: 2
-        x: 2
-        y: 449
-        width: 41
-        height: 13
+        x: 51
+        y: 453
+        width: 11
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4728,12 +4728,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_161
       rect:
         serializedVersion: 2
-        x: 50
-        y: 452
-        width: 13
-        height: 10
+        x: 65
+        y: 451
+        width: 14
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4750,12 +4750,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_162
       rect:
         serializedVersion: 2
-        x: 64
+        x: 81
         y: 450
-        width: 16
-        height: 13
+        width: 13
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4772,12 +4772,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_163
       rect:
         serializedVersion: 2
-        x: 80
-        y: 449
-        width: 15
-        height: 14
+        x: 131
+        y: 451
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4794,12 +4794,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_164
       rect:
         serializedVersion: 2
-        x: 130
-        y: 450
+        x: 135
+        y: 453
         width: 6
-        height: 7
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4816,12 +4816,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_165
       rect:
         serializedVersion: 2
-        x: 134
-        y: 452
-        width: 8
-        height: 11
+        x: 147
+        y: 454
+        width: 9
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4838,12 +4838,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_166
       rect:
         serializedVersion: 2
-        x: 146
-        y: 453
-        width: 11
-        height: 8
+        x: 153
+        y: 450
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4860,12 +4860,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_167
       rect:
         serializedVersion: 2
-        x: 152
-        y: 449
-        width: 7
-        height: 6
+        x: 162
+        y: 452
+        width: 12
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4882,12 +4882,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_168
       rect:
         serializedVersion: 2
-        x: 161
-        y: 451
-        width: 14
-        height: 14
+        x: 179
+        y: 452
+        width: 11
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4904,12 +4904,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_169
       rect:
         serializedVersion: 2
-        x: 178
-        y: 451
-        width: 13
-        height: 11
+        x: 196
+        y: 453
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4926,12 +4926,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_170
       rect:
         serializedVersion: 2
-        x: 195
+        x: 211
         y: 452
         width: 11
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4948,12 +4948,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_171
       rect:
         serializedVersion: 2
-        x: 210
+        x: 226
         y: 451
         width: 13
-        height: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4970,12 +4970,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_172
       rect:
         serializedVersion: 2
-        x: 225
-        y: 450
-        width: 15
-        height: 12
+        x: 243
+        y: 453
+        width: 11
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4992,12 +4992,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_173
       rect:
         serializedVersion: 2
-        x: 242
-        y: 452
-        width: 13
-        height: 11
+        x: 6
+        y: 420
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5014,12 +5014,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_174
       rect:
         serializedVersion: 2
-        x: 5
-        y: 419
-        width: 6
-        height: 6
+        x: 22
+        y: 423
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5036,12 +5036,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_175
       rect:
         serializedVersion: 2
-        x: 21
-        y: 422
+        x: 37
+        y: 420
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5058,12 +5058,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_176
       rect:
         serializedVersion: 2
-        x: 36
+        x: 52
         y: 419
-        width: 8
-        height: 8
+        width: 10
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5080,12 +5080,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_177
       rect:
         serializedVersion: 2
-        x: 51
-        y: 418
+        x: 66
+        y: 419
         width: 12
-        height: 15
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5102,12 +5102,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_178
       rect:
         serializedVersion: 2
-        x: 65
+        x: 81
         y: 418
-        width: 14
-        height: 26
+        width: 13
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5124,12 +5124,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_179
       rect:
         serializedVersion: 2
-        x: 80
-        y: 417
-        width: 15
-        height: 30
+        x: 97
+        y: 418
+        width: 13
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5146,12 +5146,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_180
       rect:
         serializedVersion: 2
-        x: 96
-        y: 417
-        width: 15
-        height: 30
+        x: 113
+        y: 418
+        width: 13
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5168,12 +5168,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_181
       rect:
         serializedVersion: 2
-        x: 112
-        y: 417
-        width: 15
-        height: 30
+        x: 193
+        y: 419
+        width: 14
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5190,12 +5190,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_182
       rect:
         serializedVersion: 2
-        x: 192
-        y: 418
-        width: 16
-        height: 13
+        x: 210
+        y: 420
+        width: 11
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5212,12 +5212,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_183
       rect:
         serializedVersion: 2
-        x: 209
-        y: 419
+        x: 226
+        y: 418
         width: 13
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5234,12 +5234,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_184
       rect:
         serializedVersion: 2
-        x: 225
+        x: 241
         y: 417
-        width: 15
+        width: 14
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5256,12 +5256,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_185
       rect:
         serializedVersion: 2
-        x: 240
-        y: 416
-        width: 16
-        height: 14
+        x: 83
+        y: 389
+        width: 11
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5278,12 +5278,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_186
       rect:
         serializedVersion: 2
-        x: 65
-        y: 388
-        width: 15
-        height: 12
+        x: 101
+        y: 401
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5300,12 +5300,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_187
       rect:
         serializedVersion: 2
-        x: 82
-        y: 388
-        width: 13
-        height: 14
+        x: 227
+        y: 399
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5322,12 +5322,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_188
       rect:
         serializedVersion: 2
-        x: 100
-        y: 400
-        width: 9
-        height: 10
+        x: 3
+        y: 390
+        width: 25
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5344,12 +5344,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_189
       rect:
         serializedVersion: 2
-        x: 196
-        y: 388
-        width: 6
-        height: 13
+        x: 38
+        y: 389
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5366,12 +5366,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_190
       rect:
         serializedVersion: 2
-        x: 212
-        y: 388
-        width: 6
-        height: 13
+        x: 52
+        y: 389
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5388,12 +5388,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_191
       rect:
         serializedVersion: 2
-        x: 226
-        y: 398
-        width: 11
+        x: 66
+        y: 389
+        width: 13
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5410,12 +5410,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_192
       rect:
         serializedVersion: 2
-        x: 2
-        y: 389
-        width: 27
-        height: 6
+        x: 131
+        y: 388
+        width: 38
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5432,12 +5432,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_193
       rect:
         serializedVersion: 2
-        x: 37
-        y: 388
-        width: 6
+        x: 181
+        y: 389
+        width: 4
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5454,12 +5454,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_194
       rect:
         serializedVersion: 2
-        x: 51
-        y: 388
-        width: 11
-        height: 9
+        x: 197
+        y: 389
+        width: 4
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5476,12 +5476,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_195
       rect:
         serializedVersion: 2
-        x: 130
-        y: 387
-        width: 40
-        height: 10
+        x: 213
+        y: 389
+        width: 4
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5498,12 +5498,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_196
       rect:
         serializedVersion: 2
-        x: 180
-        y: 388
-        width: 6
-        height: 9
+        x: 66
+        y: 357
+        width: 12
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5520,12 +5520,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_197
       rect:
         serializedVersion: 2
-        x: 65
-        y: 356
-        width: 14
-        height: 17
+        x: 83
+        y: 357
+        width: 12
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5542,12 +5542,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_198
       rect:
         serializedVersion: 2
-        x: 82
-        y: 356
-        width: 14
-        height: 16
+        x: 99
+        y: 371
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5564,12 +5564,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_199
       rect:
         serializedVersion: 2
-        x: 98
-        y: 370
+        x: 194
+        y: 357
         width: 11
-        height: 9
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5586,12 +5586,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_200
       rect:
         serializedVersion: 2
-        x: 193
-        y: 356
-        width: 13
-        height: 17
+        x: 226
+        y: 368
+        width: 11
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5608,12 +5608,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_201
       rect:
         serializedVersion: 2
-        x: 209
+        x: 3
         y: 356
-        width: 13
-        height: 14
+        width: 25
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5630,12 +5630,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_202
       rect:
         serializedVersion: 2
-        x: 225
-        y: 367
-        width: 13
-        height: 11
+        x: 24
+        y: 355
+        width: 4
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5652,12 +5652,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_203
       rect:
         serializedVersion: 2
-        x: 2
-        y: 355
-        width: 11
-        height: 9
+        x: 38
+        y: 357
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5674,12 +5674,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_204
       rect:
         serializedVersion: 2
-        x: 18
-        y: 358
+        x: 51
+        y: 357
         width: 11
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5696,12 +5696,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_205
       rect:
         serializedVersion: 2
-        x: 19
-        y: 354
-        width: 10
+        x: 131
+        y: 356
+        width: 39
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5718,12 +5718,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_206
       rect:
         serializedVersion: 2
-        x: 37
-        y: 356
+        x: 180
+        y: 357
         width: 6
-        height: 7
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5740,12 +5740,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_207
       rect:
         serializedVersion: 2
-        x: 50
-        y: 356
-        width: 13
-        height: 9
+        x: 210
+        y: 357
+        width: 11
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5762,12 +5762,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_208
       rect:
         serializedVersion: 2
-        x: 130
-        y: 355
-        width: 41
-        height: 10
+        x: 65
+        y: 325
+        width: 15
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5784,12 +5784,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_209
       rect:
         serializedVersion: 2
-        x: 179
-        y: 356
-        width: 8
-        height: 13
+        x: 82
+        y: 325
+        width: 13
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5806,12 +5806,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_210
       rect:
         serializedVersion: 2
-        x: 49
+        x: 195
         y: 324
-        width: 15
+        width: 10
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5828,12 +5828,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_211
       rect:
         serializedVersion: 2
-        x: 64
+        x: 211
         y: 324
-        width: 17
-        height: 26
+        width: 10
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5850,12 +5850,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_212
       rect:
         serializedVersion: 2
-        x: 81
-        y: 324
-        width: 15
-        height: 29
+        x: 227
+        y: 341
+        width: 7
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5872,12 +5872,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_213
       rect:
         serializedVersion: 2
-        x: 194
-        y: 323
-        width: 12
-        height: 19
+        x: 50
+        y: 325
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5894,12 +5894,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_214
       rect:
         serializedVersion: 2
-        x: 210
-        y: 323
-        width: 12
-        height: 23
+        x: 180
+        y: 324
+        width: 9
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5917,11 +5917,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 226
-        y: 340
-        width: 9
-        height: 9
+        y: 332
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5938,12 +5938,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_216
       rect:
         serializedVersion: 2
-        x: 233
-        y: 332
-        width: 6
-        height: 8
+        x: 234
+        y: 333
+        width: 4
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5960,12 +5960,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_217
       rect:
         serializedVersion: 2
-        x: 4
-        y: 325
-        width: 7
-        height: 6
+        x: 5
+        y: 326
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5982,12 +5982,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_218
       rect:
         serializedVersion: 2
-        x: 21
-        y: 324
-        width: 6
-        height: 7
+        x: 22
+        y: 325
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6004,12 +6004,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_219
       rect:
         serializedVersion: 2
-        x: 34
-        y: 324
-        width: 11
-        height: 8
+        x: 35
+        y: 325
+        width: 9
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6026,12 +6026,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_220
       rect:
         serializedVersion: 2
-        x: 129
-        y: 323
-        width: 11
-        height: 8
+        x: 130
+        y: 324
+        width: 9
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6048,12 +6048,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_221
       rect:
         serializedVersion: 2
-        x: 147
-        y: 321
-        width: 9
-        height: 10
+        x: 148
+        y: 322
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6070,12 +6070,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_222
       rect:
         serializedVersion: 2
-        x: 163
-        y: 323
-        width: 9
-        height: 8
+        x: 164
+        y: 324
+        width: 7
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6092,12 +6092,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_223
       rect:
         serializedVersion: 2
-        x: 179
-        y: 323
+        x: 2
+        y: 292
         width: 11
-        height: 16
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6114,12 +6114,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_224
       rect:
         serializedVersion: 2
-        x: 225
-        y: 331
-        width: 7
+        x: 18
+        y: 292
+        width: 11
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6136,12 +6136,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_225
       rect:
         serializedVersion: 2
-        x: 1
-        y: 291
-        width: 13
-        height: 8
+        x: 37
+        y: 293
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6158,12 +6158,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_226
       rect:
         serializedVersion: 2
-        x: 17
-        y: 291
-        width: 13
-        height: 8
+        x: 51
+        y: 293
+        width: 11
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6180,12 +6180,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_227
       rect:
         serializedVersion: 2
-        x: 36
-        y: 292
-        width: 7
-        height: 7
+        x: 66
+        y: 293
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6202,12 +6202,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_228
       rect:
         serializedVersion: 2
-        x: 50
-        y: 292
+        x: 82
+        y: 293
         width: 13
-        height: 14
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6224,12 +6224,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_229
       rect:
         serializedVersion: 2
-        x: 65
-        y: 292
-        width: 15
-        height: 19
+        x: 98
+        y: 293
+        width: 13
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6246,12 +6246,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_230
       rect:
         serializedVersion: 2
-        x: 81
-        y: 292
-        width: 15
-        height: 26
+        x: 112
+        y: 256
+        width: 48
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6268,12 +6268,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_231
       rect:
         serializedVersion: 2
-        x: 97
-        y: 292
-        width: 15
-        height: 26
+        x: 160
+        y: 259
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6290,12 +6290,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_232
       rect:
         serializedVersion: 2
-        x: 111
-        y: 255
-        width: 50
-        height: 53
+        x: 208
+        y: 260
+        width: 48
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6312,12 +6312,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_233
       rect:
         serializedVersion: 2
-        x: 159
-        y: 258
-        width: 50
-        height: 57
+        x: 5
+        y: 261
+        width: 6
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6334,12 +6334,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_234
       rect:
         serializedVersion: 2
-        x: 207
-        y: 259
-        width: 49
-        height: 56
+        x: 21
+        y: 261
+        width: 7
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6356,12 +6356,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_235
       rect:
         serializedVersion: 2
-        x: 4
+        x: 36
         y: 260
-        width: 8
-        height: 8
+        width: 9
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6378,12 +6378,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_236
       rect:
         serializedVersion: 2
-        x: 20
-        y: 260
-        width: 9
-        height: 8
+        x: 50
+        y: 259
+        width: 11
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6400,12 +6400,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_237
       rect:
         serializedVersion: 2
-        x: 35
-        y: 259
+        x: 67
+        y: 260
         width: 11
-        height: 13
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6422,12 +6422,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_238
       rect:
         serializedVersion: 2
-        x: 49
-        y: 258
+        x: 82
+        y: 260
         width: 13
-        height: 19
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6444,12 +6444,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_239
       rect:
         serializedVersion: 2
-        x: 66
-        y: 259
-        width: 13
-        height: 25
+        x: 2
+        y: 227
+        width: 12
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6466,12 +6466,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_240
       rect:
         serializedVersion: 2
-        x: 81
-        y: 259
-        width: 15
-        height: 25
+        x: 6
+        y: 225
+        width: 7
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6488,12 +6488,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_241
       rect:
         serializedVersion: 2
-        x: 1
-        y: 226
-        width: 14
+        x: 20
+        y: 225
+        width: 11
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6510,12 +6510,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_242
       rect:
         serializedVersion: 2
-        x: 5
-        y: 224
-        width: 9
+        x: 37
+        y: 227
+        width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6532,12 +6532,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_243
       rect:
         serializedVersion: 2
-        x: 19
-        y: 224
-        width: 13
-        height: 15
+        x: 51
+        y: 226
+        width: 11
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6554,12 +6554,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_244
       rect:
         serializedVersion: 2
-        x: 36
-        y: 226
-        width: 9
-        height: 9
+        x: 64
+        y: 225
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6576,12 +6576,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_245
       rect:
         serializedVersion: 2
-        x: 50
-        y: 225
-        width: 13
-        height: 13
+        x: 80
+        y: 226
+        width: 48
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6598,12 +6598,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_246
       rect:
         serializedVersion: 2
-        x: 63
+        x: 129
         y: 224
-        width: 18
-        height: 18
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6620,12 +6620,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_247
       rect:
         serializedVersion: 2
-        x: 79
-        y: 225
-        width: 50
-        height: 21
+        x: 145
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6642,12 +6642,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_248
       rect:
         serializedVersion: 2
-        x: 128
-        y: 223
-        width: 17
-        height: 30
+        x: 161
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6664,12 +6664,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_249
       rect:
         serializedVersion: 2
-        x: 144
-        y: 223
-        width: 17
-        height: 30
+        x: 177
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6686,12 +6686,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_250
       rect:
         serializedVersion: 2
-        x: 160
-        y: 223
-        width: 17
-        height: 30
+        x: 193
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6708,12 +6708,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_251
       rect:
         serializedVersion: 2
-        x: 176
-        y: 223
-        width: 17
-        height: 30
+        x: 209
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6730,12 +6730,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_252
       rect:
         serializedVersion: 2
-        x: 192
-        y: 223
-        width: 17
-        height: 30
+        x: 225
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6752,12 +6752,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_253
       rect:
         serializedVersion: 2
-        x: 208
-        y: 223
-        width: 17
-        height: 30
+        x: 241
+        y: 224
+        width: 15
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6774,12 +6774,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_254
       rect:
         serializedVersion: 2
-        x: 224
-        y: 223
-        width: 17
-        height: 30
+        x: 0
+        y: 192
+        width: 139
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6796,12 +6796,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_255
       rect:
         serializedVersion: 2
-        x: 240
-        y: 223
-        width: 16
-        height: 30
+        x: 147
+        y: 196
+        width: 25
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6818,12 +6818,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_256
       rect:
         serializedVersion: 2
-        x: 0
-        y: 191
-        width: 140
-        height: 31
+        x: 178
+        y: 197
+        width: 12
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6840,12 +6840,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_257
       rect:
         serializedVersion: 2
-        x: 146
+        x: 192
         y: 195
-        width: 27
-        height: 9
+        width: 32
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6862,12 +6862,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_258
       rect:
         serializedVersion: 2
-        x: 177
-        y: 196
-        width: 14
-        height: 13
+        x: 2
+        y: 165
+        width: 5
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6884,12 +6884,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_259
       rect:
         serializedVersion: 2
-        x: 191
-        y: 194
-        width: 34
-        height: 26
+        x: 6
+        y: 161
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6906,12 +6906,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_260
       rect:
         serializedVersion: 2
-        x: 1
-        y: 164
+        x: 8
+        y: 165
         width: 7
-        height: 11
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6928,12 +6928,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_261
       rect:
         serializedVersion: 2
-        x: 5
-        y: 160
-        width: 7
-        height: 7
+        x: 18
+        y: 162
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6950,12 +6950,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_262
       rect:
         serializedVersion: 2
-        x: 7
-        y: 164
-        width: 9
-        height: 10
+        x: 22
+        y: 167
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6972,12 +6972,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_263
       rect:
         serializedVersion: 2
-        x: 17
-        y: 161
-        width: 7
-        height: 7
+        x: 25
+        y: 162
+        width: 5
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6994,12 +6994,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_264
       rect:
         serializedVersion: 2
-        x: 21
-        y: 166
-        width: 6
-        height: 7
+        x: 36
+        y: 163
+        width: 9
+        height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7016,12 +7016,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_265
       rect:
         serializedVersion: 2
-        x: 24
-        y: 161
-        width: 7
-        height: 11
+        x: 51
+        y: 163
+        width: 11
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7038,12 +7038,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_266
       rect:
         serializedVersion: 2
-        x: 35
+        x: 65
         y: 162
-        width: 11
-        height: 8
+        width: 15
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7060,12 +7060,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_267
       rect:
         serializedVersion: 2
-        x: 50
+        x: 81
         y: 162
-        width: 13
-        height: 15
+        width: 15
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7082,12 +7082,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_268
       rect:
         serializedVersion: 2
-        x: 64
-        y: 161
-        width: 17
-        height: 19
+        x: 96
+        y: 162
+        width: 32
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7104,12 +7104,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_269
       rect:
         serializedVersion: 2
-        x: 80
-        y: 161
-        width: 17
-        height: 26
+        x: 133
+        y: 165
+        width: 7
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7126,12 +7126,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_270
       rect:
         serializedVersion: 2
-        x: 95
-        y: 161
-        width: 34
-        height: 26
+        x: 149
+        y: 165
+        width: 7
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7148,12 +7148,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_271
       rect:
         serializedVersion: 2
-        x: 132
+        x: 165
         y: 164
-        width: 9
-        height: 6
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7170,12 +7170,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_272
       rect:
         serializedVersion: 2
-        x: 148
+        x: 180
         y: 164
         width: 9
-        height: 7
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7192,12 +7192,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_273
       rect:
         serializedVersion: 2
-        x: 164
-        y: 163
-        width: 9
-        height: 10
+        x: 195
+        y: 164
+        width: 10
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7214,12 +7214,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_274
       rect:
         serializedVersion: 2
-        x: 179
-        y: 163
-        width: 11
-        height: 16
+        x: 208
+        y: 164
+        width: 14
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7236,12 +7236,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_275
       rect:
         serializedVersion: 2
-        x: 194
-        y: 163
-        width: 12
-        height: 21
+        x: 224
+        y: 164
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7258,12 +7258,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_276
       rect:
         serializedVersion: 2
-        x: 207
-        y: 163
+        x: 240
+        y: 164
         width: 16
-        height: 26
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7280,12 +7280,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_277
       rect:
         serializedVersion: 2
-        x: 223
-        y: 163
-        width: 18
-        height: 29
+        x: 4
+        y: 133
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7302,12 +7302,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_278
       rect:
         serializedVersion: 2
-        x: 239
-        y: 163
-        width: 17
-        height: 27
+        x: 21
+        y: 133
+        width: 9
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7324,12 +7324,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_279
       rect:
         serializedVersion: 2
-        x: 3
+        x: 34
         y: 132
-        width: 11
-        height: 9
+        width: 13
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7346,12 +7346,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_280
       rect:
         serializedVersion: 2
-        x: 20
+        x: 49
         y: 132
-        width: 11
-        height: 9
+        width: 14
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7368,12 +7368,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_281
       rect:
         serializedVersion: 2
-        x: 33
-        y: 131
-        width: 15
-        height: 15
+        x: 65
+        y: 132
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7390,12 +7390,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_282
       rect:
         serializedVersion: 2
-        x: 48
-        y: 131
-        width: 16
-        height: 18
+        x: 81
+        y: 132
+        width: 15
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7412,12 +7412,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_283
       rect:
         serializedVersion: 2
-        x: 64
-        y: 131
-        width: 16
-        height: 25
+        x: 132
+        y: 139
+        width: 8
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7434,12 +7434,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_284
       rect:
         serializedVersion: 2
-        x: 80
-        y: 131
-        width: 17
-        height: 29
+        x: 133
+        y: 129
+        width: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7456,12 +7456,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_285
       rect:
         serializedVersion: 2
-        x: 129
-        y: 132
-        width: 6
-        height: 6
+        x: 148
+        y: 131
+        width: 9
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7478,12 +7478,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_286
       rect:
         serializedVersion: 2
-        x: 131
-        y: 138
-        width: 10
-        height: 6
+        x: 154
+        y: 136
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7500,12 +7500,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_287
       rect:
         serializedVersion: 2
-        x: 132
-        y: 128
-        width: 13
-        height: 12
+        x: 164
+        y: 132
+        width: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7522,12 +7522,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_288
       rect:
         serializedVersion: 2
-        x: 147
-        y: 130
-        width: 11
+        x: 178
+        y: 132
+        width: 13
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7544,12 +7544,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_289
       rect:
         serializedVersion: 2
-        x: 153
-        y: 135
-        width: 6
-        height: 6
+        x: 192
+        y: 131
+        width: 16
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7566,12 +7566,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_290
       rect:
         serializedVersion: 2
-        x: 163
-        y: 131
-        width: 9
-        height: 10
+        x: 209
+        y: 130
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7588,12 +7588,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_291
       rect:
         serializedVersion: 2
-        x: 177
-        y: 131
-        width: 15
-        height: 14
+        x: 225
+        y: 130
+        width: 14
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7610,12 +7610,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_292
       rect:
         serializedVersion: 2
-        x: 191
+        x: 241
         y: 130
-        width: 18
-        height: 19
+        width: 15
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7632,12 +7632,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_293
       rect:
         serializedVersion: 2
-        x: 208
-        y: 129
-        width: 17
-        height: 22
+        x: 130
+        y: 133
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7654,12 +7654,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_294
       rect:
         serializedVersion: 2
-        x: 224
-        y: 129
-        width: 16
-        height: 28
+        x: 2
+        y: 98
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7676,12 +7676,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_295
       rect:
         serializedVersion: 2
-        x: 240
-        y: 129
-        width: 16
-        height: 25
+        x: 9
+        y: 99
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7698,12 +7698,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_296
       rect:
         serializedVersion: 2
-        x: 1
+        x: 18
         y: 97
-        width: 7
-        height: 12
+        width: 6
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7720,12 +7720,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_297
       rect:
         serializedVersion: 2
-        x: 8
-        y: 98
+        x: 23
+        y: 100
         width: 7
-        height: 12
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7742,12 +7742,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_298
       rect:
         serializedVersion: 2
-        x: 17
-        y: 96
-        width: 8
-        height: 12
+        x: 35
+        y: 99
+        width: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7764,12 +7764,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_299
       rect:
         serializedVersion: 2
-        x: 22
+        x: 49
         y: 99
-        width: 9
+        width: 14
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7786,12 +7786,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_300
       rect:
         serializedVersion: 2
-        x: 34
+        x: 65
         y: 98
-        width: 13
-        height: 12
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7808,12 +7808,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_301
       rect:
         serializedVersion: 2
-        x: 48
-        y: 98
-        width: 16
-        height: 14
+        x: 81
+        y: 96
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7830,12 +7830,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_302
       rect:
         serializedVersion: 2
-        x: 64
-        y: 97
-        width: 16
-        height: 21
+        x: 130
+        y: 98
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7852,12 +7852,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_303
       rect:
         serializedVersion: 2
-        x: 80
-        y: 95
-        width: 17
-        height: 27
+        x: 137
+        y: 99
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7874,12 +7874,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_304
       rect:
         serializedVersion: 2
-        x: 129
+        x: 146
         y: 97
-        width: 7
-        height: 12
+        width: 6
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7896,12 +7896,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_305
       rect:
         serializedVersion: 2
-        x: 136
-        y: 98
+        x: 151
+        y: 100
         width: 7
-        height: 12
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7918,12 +7918,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_306
       rect:
         serializedVersion: 2
-        x: 145
-        y: 96
-        width: 8
-        height: 12
+        x: 163
+        y: 99
+        width: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7940,12 +7940,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_307
       rect:
         serializedVersion: 2
-        x: 150
+        x: 177
         y: 99
-        width: 9
+        width: 14
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7962,12 +7962,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_308
       rect:
         serializedVersion: 2
-        x: 162
+        x: 193
         y: 98
-        width: 13
-        height: 12
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7984,12 +7984,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_309
       rect:
         serializedVersion: 2
-        x: 176
-        y: 98
-        width: 16
-        height: 14
+        x: 209
+        y: 96
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8006,12 +8006,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_310
       rect:
         serializedVersion: 2
-        x: 192
-        y: 97
-        width: 16
-        height: 21
+        x: 2
+        y: 66
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8028,12 +8028,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_311
       rect:
         serializedVersion: 2
-        x: 208
-        y: 95
-        width: 17
-        height: 27
+        x: 9
+        y: 67
+        width: 5
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8050,12 +8050,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_312
       rect:
         serializedVersion: 2
-        x: 1
+        x: 18
         y: 65
-        width: 7
-        height: 12
+        width: 6
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8072,12 +8072,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_313
       rect:
         serializedVersion: 2
-        x: 8
-        y: 66
+        x: 23
+        y: 68
         width: 7
-        height: 12
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8094,12 +8094,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_314
       rect:
         serializedVersion: 2
-        x: 17
-        y: 64
-        width: 8
-        height: 12
+        x: 35
+        y: 67
+        width: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8116,12 +8116,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_315
       rect:
         serializedVersion: 2
-        x: 22
+        x: 49
         y: 67
-        width: 9
+        width: 14
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8138,12 +8138,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_316
       rect:
         serializedVersion: 2
-        x: 34
+        x: 65
         y: 66
-        width: 13
-        height: 12
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8160,12 +8160,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_317
       rect:
         serializedVersion: 2
-        x: 48
-        y: 66
-        width: 16
-        height: 14
+        x: 81
+        y: 64
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8182,12 +8182,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_318
       rect:
         serializedVersion: 2
-        x: 64
-        y: 65
-        width: 16
-        height: 21
+        x: 131
+        y: 66
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8204,12 +8204,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_319
       rect:
         serializedVersion: 2
-        x: 80
-        y: 63
-        width: 17
-        height: 27
+        x: 133
+        y: 72
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8226,12 +8226,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_320
       rect:
         serializedVersion: 2
-        x: 130
-        y: 65
-        width: 7
-        height: 7
+        x: 137
+        y: 67
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8248,12 +8248,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_321
       rect:
         serializedVersion: 2
-        x: 132
+        x: 148
         y: 71
-        width: 7
-        height: 7
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8270,12 +8270,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_322
       rect:
         serializedVersion: 2
-        x: 136
-        y: 66
-        width: 7
-        height: 7
+        x: 148
+        y: 65
+        width: 10
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8292,12 +8292,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_323
       rect:
         serializedVersion: 2
-        x: 147
-        y: 70
-        width: 6
-        height: 6
+        x: 162
+        y: 65
+        width: 13
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8314,12 +8314,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_324
       rect:
         serializedVersion: 2
-        x: 147
-        y: 64
-        width: 12
-        height: 11
+        x: 176
+        y: 65
+        width: 47
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8336,12 +8336,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_325
       rect:
         serializedVersion: 2
-        x: 161
-        y: 64
-        width: 15
-        height: 15
+        x: 3
+        y: 34
+        width: 10
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8358,12 +8358,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_326
       rect:
         serializedVersion: 2
-        x: 175
-        y: 64
-        width: 49
-        height: 29
+        x: 19
+        y: 33
+        width: 11
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8380,12 +8380,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_327
       rect:
         serializedVersion: 2
-        x: 2
-        y: 33
-        width: 12
-        height: 14
+        x: 24
+        y: 42
+        width: 4
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8402,12 +8402,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_328
       rect:
         serializedVersion: 2
-        x: 18
-        y: 32
-        width: 13
-        height: 12
+        x: 36
+        y: 37
+        width: 9
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8424,12 +8424,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_329
       rect:
         serializedVersion: 2
-        x: 23
-        y: 41
-        width: 6
-        height: 7
+        x: 52
+        y: 36
+        width: 9
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8446,12 +8446,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_330
       rect:
         serializedVersion: 2
-        x: 35
+        x: 66
         y: 36
-        width: 11
-        height: 7
+        width: 12
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8468,12 +8468,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_331
       rect:
         serializedVersion: 2
-        x: 51
-        y: 35
-        width: 11
-        height: 14
+        x: 131
+        y: 34
+        width: 6
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8490,12 +8490,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_332
       rect:
         serializedVersion: 2
-        x: 65
-        y: 35
-        width: 14
-        height: 18
+        x: 136
+        y: 40
+        width: 6
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8512,12 +8512,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_333
       rect:
         serializedVersion: 2
-        x: 130
-        y: 33
-        width: 8
-        height: 12
+        x: 151
+        y: 41
+        width: 6
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8534,12 +8534,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_334
       rect:
         serializedVersion: 2
-        x: 135
-        y: 39
-        width: 8
+        x: 163
+        y: 36
+        width: 11
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8556,12 +8556,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_335
       rect:
         serializedVersion: 2
-        x: 150
-        y: 40
-        width: 8
-        height: 6
+        x: 178
+        y: 36
+        width: 13
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8578,12 +8578,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_336
       rect:
         serializedVersion: 2
-        x: 162
-        y: 35
-        width: 13
-        height: 9
+        x: 193
+        y: 36
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8600,12 +8600,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_337
       rect:
         serializedVersion: 2
-        x: 177
-        y: 35
+        x: 209
+        y: 36
         width: 15
-        height: 12
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8622,12 +8622,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_338
       rect:
         serializedVersion: 2
-        x: 192
-        y: 35
-        width: 17
+        x: 225
+        y: 36
+        width: 15
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8644,12 +8644,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_339
       rect:
         serializedVersion: 2
-        x: 208
-        y: 35
-        width: 17
-        height: 22
+        x: 241
+        y: 36
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8666,12 +8666,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_340
       rect:
         serializedVersion: 2
-        x: 224
-        y: 35
-        width: 17
-        height: 22
+        x: 147
+        y: 34
+        width: 6
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8688,12 +8688,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_341
       rect:
         serializedVersion: 2
-        x: 240
-        y: 35
-        width: 16
-        height: 22
+        x: 7
+        y: 9
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8710,12 +8710,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_342
       rect:
         serializedVersion: 2
-        x: 146
-        y: 33
-        width: 8
-        height: 7
+        x: 22
+        y: 10
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8732,12 +8732,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_343
       rect:
         serializedVersion: 2
-        x: 1
-        y: 3
-        width: 6
-        height: 6
+        x: 35
+        y: 4
+        width: 11
+        height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8754,12 +8754,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_344
       rect:
         serializedVersion: 2
-        x: 6
-        y: 8
-        width: 6
-        height: 6
+        x: 51
+        y: 4
+        width: 11
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8776,12 +8776,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_345
       rect:
         serializedVersion: 2
-        x: 21
-        y: 9
-        width: 6
-        height: 6
+        x: 65
+        y: 4
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8798,12 +8798,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_346
       rect:
         serializedVersion: 2
-        x: 25
+        x: 82
         y: 4
-        width: 6
-        height: 6
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8820,12 +8820,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_347
       rect:
         serializedVersion: 2
-        x: 34
-        y: 3
+        x: 98
+        y: 4
         width: 13
-        height: 11
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8842,12 +8842,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_348
       rect:
         serializedVersion: 2
-        x: 50
-        y: 3
-        width: 13
-        height: 15
+        x: 113
+        y: 4
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8864,12 +8864,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_349
       rect:
         serializedVersion: 2
-        x: 64
-        y: 3
-        width: 17
-        height: 18
+        x: 163
+        y: 4
+        width: 9
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8886,12 +8886,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_350
       rect:
         serializedVersion: 2
-        x: 81
-        y: 3
-        width: 15
-        height: 19
+        x: 178
+        y: 2
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8908,12 +8908,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_351
       rect:
         serializedVersion: 2
-        x: 97
-        y: 3
-        width: 15
-        height: 19
+        x: 193
+        y: 2
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8930,12 +8930,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_352
       rect:
         serializedVersion: 2
-        x: 112
+        x: 209
         y: 3
-        width: 17
-        height: 18
+        width: 14
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8952,12 +8952,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_353
       rect:
         serializedVersion: 2
-        x: 131
+        x: 225
         y: 3
-        width: 7
-        height: 7
+        width: 15
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8974,12 +8974,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_354
       rect:
         serializedVersion: 2
-        x: 148
+        x: 2
         y: 4
-        width: 8
-        height: 6
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8996,12 +8996,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_355
       rect:
         serializedVersion: 2
-        x: 162
-        y: 3
-        width: 11
-        height: 10
+        x: 9
+        y: 2
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9018,12 +9018,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_356
       rect:
         serializedVersion: 2
-        x: 177
-        y: 1
-        width: 13
-        height: 16
+        x: 20
+        y: 2
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9040,12 +9040,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_357
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1
-        width: 15
-        height: 17
+        x: 26
+        y: 5
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9062,12 +9062,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_358
       rect:
         serializedVersion: 2
-        x: 208
-        y: 1
-        width: 16
-        height: 19
+        x: 132
+        y: 4
+        width: 5
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9084,12 +9084,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Environment - Crops_359
       rect:
         serializedVersion: 2
-        x: 224
-        y: 1
-        width: 17
-        height: 24
+        x: 149
+        y: 5
+        width: 6
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -9102,55 +9102,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Environment - Crops_360
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 1
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d61787664ff3bd20800000000000000
-      internalID: 3293256430387664599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Environment - Crops_361
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 1
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da2bcadbc99665f70800000000000000
-      internalID: 9175637412731990701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 89ccfd9c51bd3d94d964b6ffe3e4f303
     internalID: 0
     vertices: []
     indices: 
@@ -9158,7 +9114,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PC _ Computer - Stardew Valley - Environment - Crops_0: 5754928129857868713
       PC _ Computer - Stardew Valley - Environment - Crops_1: 2284345175931094149
@@ -9451,8 +9409,6 @@ TextureImporter:
       PC _ Computer - Stardew Valley - Environment - Crops_358: 467258220346020990
       PC _ Computer - Stardew Valley - Environment - Crops_359: 7625113429799613149
       PC _ Computer - Stardew Valley - Environment - Crops_36: 8196193625925207552
-      PC _ Computer - Stardew Valley - Environment - Crops_360: 3293256430387664599
-      PC _ Computer - Stardew Valley - Environment - Crops_361: 9175637412731990701
       PC _ Computer - Stardew Valley - Environment - Crops_37: -3956016344866462682
       PC _ Computer - Stardew Valley - Environment - Crops_38: -499316010013478920
       PC _ Computer - Stardew Valley - Environment - Crops_39: 2079538553832424710
