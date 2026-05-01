@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 17bdb7554e677104584260c2da3da82d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2718878591537364736
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_0
+  - first:
+      213: 862636231693404520
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_1
+  - first:
+      213: 6367144741529457224
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_2
+  - first:
+      213: 5490823703225289718
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_3
+  - first:
+      213: 8136225483959386774
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_4
+  - first:
+      213: -163312008203689056
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_5
+  - first:
+      213: 7560134068790023866
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_6
+  - first:
+      213: -9079752733417327025
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_7
+  - first:
+      213: 3689960682192015284
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_8
+  - first:
+      213: -1676437040030948954
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_9
+  - first:
+      213: -7281196490485559908
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_10
+  - first:
+      213: -6318936558397033167
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_11
+  - first:
+      213: 2625100583694234323
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_12
+  - first:
+      213: -8923684641040627214
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_13
+  - first:
+      213: 4986613500210907665
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_14
+  - first:
+      213: -6269834692701325892
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_15
+  - first:
+      213: 5496245987048197762
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_16
+  - first:
+      213: -7377592804945992996
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_17
+  - first:
+      213: 2500520674788891543
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_18
+  - first:
+      213: -3184671643086884395
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_19
+  - first:
+      213: 6610679570397845911
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_20
+  - first:
+      213: -8091901194593525630
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_21
+  - first:
+      213: -5049562169891029031
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_22
+  - first:
+      213: -1334204491140459046
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_23
+  - first:
+      213: 3908480210347389195
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_24
+  - first:
+      213: 4697945310101623490
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_25
+  - first:
+      213: 882173312714063432
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_26
+  - first:
+      213: 2062928184241189284
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_27
+  - first:
+      213: 4155811921893523758
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_28
+  - first:
+      213: -5701327043045092085
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_29
+  - first:
+      213: -328622707158275016
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_30
+  - first:
+      213: -2867911637642167530
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_31
+  - first:
+      213: 52123981338239189
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_32
+  - first:
+      213: 1353150661377651921
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_33
+  - first:
+      213: 7089493146368102924
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_34
+  - first:
+      213: -1918205182561709744
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_35
+  - first:
+      213: -4168505945675178459
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_36
+  - first:
+      213: -6102020522186708257
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_37
+  - first:
+      213: -4719952794483884606
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_38
+  - first:
+      213: -2653876868544824936
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_39
+  - first:
+      213: -6347420005456255577
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_40
+  - first:
+      213: -5779092757063153677
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_41
+  - first:
+      213: -9175807324182744234
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fbffb7ca56bb520800000000000000
+      internalID: 2718878591537364736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86987701513b8fb00800000000000000
+      internalID: 862636231693404520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8421c586864ac5850800000000000000
+      internalID: 6367144741529457224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc9030113533c40800000000000000
+      internalID: 5490823703225289718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69241e758fda9e070800000000000000
+      internalID: 8136225483959386774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a673089ccbbdf0800000000000000
+      internalID: -163312008203689056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6de8851edfae860800000000000000
+      internalID: 7560134068790023866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46374cdefc3ef180800000000000000
+      internalID: -9079752733417327025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf8631b0bf553330800000000000000
+      internalID: 3689960682192015284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1e5ace4691cb8e0800000000000000
+      internalID: -1676437040030948954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d89cc8e5ef3fa90800000000000000
+      internalID: -7281196490485559908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f386eda0ae48a0800000000000000
+      internalID: -6318936558397033167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2f3ce821b3e6420800000000000000
+      internalID: 2625100583694234323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90a234914b82480800000000000000
+      internalID: -8923684641040627214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a0d38ee82043540800000000000000
+      internalID: 4986613500210907665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5fd15e0921df8a0800000000000000
+      internalID: -6269834692701325892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e8c28da96964c40800000000000000
+      internalID: 5496245987048197762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd267bb9e668d9990800000000000000
+      internalID: -7377592804945992996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bdf4e2e42a3b220800000000000000
+      internalID: 2500520674788891543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1fb838306cdc3d0800000000000000
+      internalID: -3184671643086884395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799de7d5b0addbb50800000000000000
+      internalID: 6610679570397845911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280a1ba7cbac3bf80800000000000000
+      internalID: -8091901194593525630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dff460d5f95ce9b0800000000000000
+      internalID: -5049562169891029031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad597df8514fb7de0800000000000000
+      internalID: -1334204491140459046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0176651b06bd3630800000000000000
+      internalID: 3908480210347389195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2d1d66e54723140800000000000000
+      internalID: 4697945310101623490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb6a634fb1e3c00800000000000000
+      internalID: 882173312714063432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a176d2f04ef0ac10800000000000000
+      internalID: 2062928184241189284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e210ccdace86ca930800000000000000
+      internalID: 4155811921893523758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0518f2e241d0e0b0800000000000000
+      internalID: -5701327043045092085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c24b2936f707bf0800000000000000
+      internalID: -328622707158275016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b31277f812338d0800000000000000
+      internalID: -2867911637642167530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0e1ff1c7e29b000800000000000000
+      internalID: 52123981338239189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4fff27b5b57c210800000000000000
+      internalID: 1353150661377651921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0256d27470f26260800000000000000
+      internalID: 7089493146368102924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051981fac8a2165e0800000000000000
+      internalID: -1918205182561709744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5de79ded7626c0800000000000000
+      internalID: -4168505945675178459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaeaea3aa4415ba0800000000000000
+      internalID: -6102020522186708257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdfc28d0fb5f7eb0800000000000000
+      internalID: -4719952794483884606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89972c48c098b2bd0800000000000000
+      internalID: -2653876868544824936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56296922f69e7a0800000000000000
+      internalID: -6347420005456255577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c733a1c98ccfa0800000000000000
+      internalID: -5779092757063153677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f8aaaadbf8a080800000000000000
+      internalID: -9175807324182744234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_0: 2718878591537364736
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_1: 862636231693404520
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_10: -7281196490485559908
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_11: -6318936558397033167
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_12: 2625100583694234323
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_13: -8923684641040627214
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_14: 4986613500210907665
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_15: -6269834692701325892
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_16: 5496245987048197762
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_17: -7377592804945992996
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_18: 2500520674788891543
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_19: -3184671643086884395
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_2: 6367144741529457224
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_20: 6610679570397845911
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_21: -8091901194593525630
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_22: -5049562169891029031
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_23: -1334204491140459046
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_24: 3908480210347389195
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_25: 4697945310101623490
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_26: 882173312714063432
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_27: 2062928184241189284
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_28: 4155811921893523758
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_29: -5701327043045092085
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_3: 5490823703225289718
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_30: -328622707158275016
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_31: -2867911637642167530
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_32: 52123981338239189
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_33: 1353150661377651921
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_34: 7089493146368102924
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_35: -1918205182561709744
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_36: -4168505945675178459
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_37: -6102020522186708257
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_38: -4719952794483884606
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_39: -2653876868544824936
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_4: 8136225483959386774
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_40: -6347420005456255577
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_41: -5779092757063153677
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_42: -9175807324182744234
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_5: -163312008203689056
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_6: 7560134068790023866
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_7: -9079752733417327025
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_8: 3689960682192015284
+      PC _ Computer - Stardew Valley - Miscellaneous - Emote Menu_9: -1676437040030948954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
