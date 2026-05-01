@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 65e030b1e44d1b74aa457b014c7eafbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5191753981408389095
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_0
+  - first:
+      213: 5899314888308854146
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_1
+  - first:
+      213: 2871835646483305946
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_2
+  - first:
+      213: 5071330165978797335
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_3
+  - first:
+      213: 6779277746435056562
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_4
+  - first:
+      213: -2651623767064346561
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_5
+  - first:
+      213: -9162658142560181534
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_6
+  - first:
+      213: -3274531752935929125
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_7
+  - first:
+      213: 4686376804300774647
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_8
+  - first:
+      213: -6740700892907558601
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_9
+  - first:
+      213: 8004514996776423587
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_10
+  - first:
+      213: 2402806295729095605
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_11
+  - first:
+      213: -1569963072530929659
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_12
+  - first:
+      213: -1753716699828527389
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_13
+  - first:
+      213: 8345470384891596715
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_14
+  - first:
+      213: 448776333852994087
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_15
+  - first:
+      213: 7255819917175316112
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_16
+  - first:
+      213: -421555228945300328
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_17
+  - first:
+      213: 5239237238465813193
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_18
+  - first:
+      213: 5949623376102127301
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_19
+  - first:
+      213: -2163356204793513221
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_20
+  - first:
+      213: 4537349260726449481
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_21
+  - first:
+      213: 7772003768084360176
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_22
+  - first:
+      213: 1441568063497512469
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_23
+  - first:
+      213: 5384717518451047018
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_24
+  - first:
+      213: -8901543259370665610
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_25
+  - first:
+      213: 4669172648225614843
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_26
+  - first:
+      213: 4117197967690945967
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_27
+  - first:
+      213: 1383772598349338628
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_28
+  - first:
+      213: -3789569255502435600
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_29
+  - first:
+      213: -4928442597259593878
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_30
+  - first:
+      213: 3499885951151033980
+    second: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7211f2db0dc0840800000000000000
+      internalID: 5191753981408389095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 590
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d82df82a39ed150800000000000000
+      internalID: 5899314888308854146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 590
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad511f90e4fcad720800000000000000
+      internalID: 2871835646483305946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 590
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e2b200f6a8af4aab46bf6da6863c8
+      internalID: 538253742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 590
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5a2062a84c0e4696d484706c6196e
+      internalID: 47500737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae70bf587d76646a1a9b8e0de9a87c
+      internalID: -126566840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 530
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8f16f7810c8e41be464006a3e33e5
+      internalID: 139450488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 530
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7fdb910407dbf4ca17715ae16a188e
+      internalID: 1546621523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 530
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb048eb7035444aa02c6fc1f204f81
+      internalID: 255116478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 530
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0600235f2bf734884e5342ecb970b7
+      internalID: -258246410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51beb63ebf93b6468006335d299cd73
+      internalID: 1969708418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 470
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d52fd50c0dfa54e9dd0a3389dee77d
+      internalID: -314746146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 470
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e1e346859b184282f8a6347e23c42
+      internalID: 1434910878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 470
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edefc9960ec5f874a98d66ff3b4abe5d
+      internalID: 1367238103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 470
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fdb777206b064bbf61a1fad8ee0a5
+      internalID: 1493341205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f273181d4d4542856a74307d36c2b
+      internalID: 1598106221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 410
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8296e6eff1cc36848a52203bbacf416b
+      internalID: 310953740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 410
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a9de760abb9645a7d26762140708a
+      internalID: -214111188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 410
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2977d2aacbf904cadd8f3fbde92814
+      internalID: -1290108168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 410
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142d0f5d548d074d9491f38c5a14b29
+      internalID: 166625468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e75545d7b8f0a4f8c1302ed7eda47e
+      internalID: 1483168976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 350
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05466a69941f1d34eb073ca26fdfca91
+      internalID: -577273591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 350
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0400b344e0d14db2cea47f1eaf001
+      internalID: -105587546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 350
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fe8586cb60b541b1bf0cc9e2ed625
+      internalID: 453745689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 350
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277aa535a17469d4c8cf9630216cf36a
+      internalID: 1595917182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e8a7274fde154c83bf2687775ea9a
+      internalID: 130142297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 290
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e4fe90ce4aee47bcef1b59c854367
+      internalID: 1352483086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 290
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736a89772b51e1439ced14004b1688a
+      internalID: -1191010065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 290
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff365655d7b06945b1148ada5f1ace8
+      internalID: -1656799096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 290
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501c73fe2f7bbd49a481894c40d2843
+      internalID: -499960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ba4826cf2aa249aedeae10c3ce837
+      internalID: -1586927532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39db7504eca0747acefd4040638337
+      internalID: 2010730040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 230
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b32551be49d7f439f336408243f334
+      internalID: -802810366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 230
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3cb476441ed14f90463acd843368b
+      internalID: 189827056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 230
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95607869555de84997025b0b5ac58e9
+      internalID: 822713796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a44c1539dbd3cf498a8ffb20f4f75a8
+      internalID: -1313655443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd61378d19734648bdcf249f38bd2b9
+      internalID: -718055539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 170
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62fdddc30b3ee44aa640ff5d3d339c
+      internalID: 1494013467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 170
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320bba27fa0903499675263f09836a9
+      internalID: -1715374458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 170
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b82585bbce7245baacc53049054ba
+      internalID: 1337860898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cdadebd6f1e424491af19d0659d30e
+      internalID: 1725920245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b85cd3bedce5345932ae64e8911388
+      internalID: -1210684300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e640747d9125c478e1ca2e3a824122
+      internalID: 91171750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 110
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db330f0a5c72b8d4d831b918772a1895
+      internalID: -43264294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 110
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f160fc98c00e44b17707d3a1fb8bf
+      internalID: -1603612201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb63f50f72a1f4887f8238f1ac5be1
+      internalID: -177788741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c633a1983787fd143bdb529388f86817
+      internalID: -1459641416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 50
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631f167f64a4044dab4cfdbf468974c
+      internalID: -1207327024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 50
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca59f82897c58b4b906cf2156eaef15
+      internalID: 1763187629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb9111e7f6c944ab9e0725eadab419
+      internalID: 1215882613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b84fb5411bf9b34f8ef7bd6fa290b11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":73.0,"y":60.0},"gridSpriteOffset":{"x":0.0,"y":5.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_0: 5191753981408389095
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_1: 5899314888308854146
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_10: 1969708418
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_11: -314746146
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_12: 1434910878
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_13: 1367238103
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_14: 1493341205
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_15: 1598106221
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_16: 310953740
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_17: -214111188
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_18: -1290108168
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_19: 166625468
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_2: 2871835646483305946
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_20: 1483168976
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_21: -577273591
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_22: -105587546
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_23: 453745689
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_24: 1595917182
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_25: 130142297
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_26: 1352483086
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_27: -1191010065
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_28: -1656799096
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_29: -499960
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_3: 538253742
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_30: -1586927532
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_31: 2010730040
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_32: -802810366
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_33: 189827056
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_34: 822713796
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_35: -1313655443
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_36: -718055539
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_37: 1494013467
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_38: -1715374458
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_39: 1337860898
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_4: 47500737
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_40: 1725920245
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_41: -1210684300
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_42: 91171750
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_43: -43264294
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_44: -1603612201
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_45: -177788741
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_46: -1459641416
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_47: -1207327024
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_48: 1763187629
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_49: 1215882613
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_5: -126566840
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_6: 139450488
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_7: 1546621523
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_8: 255116478
+      PC _ Computer - Stardew Valley - Miscellaneous - Title Screen_9: -258246410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

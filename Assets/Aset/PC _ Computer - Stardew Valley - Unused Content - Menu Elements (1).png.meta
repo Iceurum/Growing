@@ -151,12 +151,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 226
-        width: 60
-        height: 60
+        x: 0
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -173,12 +173,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_1
       rect:
         serializedVersion: 2
-        x: 66
-        y: 226
-        width: 60
-        height: 60
+        x: 15
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 111
-        width: 128
-        height: 114
+        x: 30
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,12 +217,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 95
-        width: 128
-        height: 16
+        x: 45
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,12 +239,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_4
       rect:
         serializedVersion: 2
-        x: 2
-        y: 82
-        width: 12
-        height: 12
+        x: 60
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -261,12 +261,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_5
       rect:
         serializedVersion: 2
-        x: 15
-        y: 87
-        width: 9
-        height: 9
+        x: 75
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,12 +283,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_6
       rect:
         serializedVersion: 2
-        x: 31
-        y: 86
-        width: 11
-        height: 11
+        x: 90
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_7
       rect:
         serializedVersion: 2
-        x: 47
-        y: 71
-        width: 11
-        height: 26
+        x: 105
+        y: 269
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,12 +327,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_8
       rect:
         serializedVersion: 2
-        x: 66
-        y: 82
-        width: 12
-        height: 12
+        x: 0
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,12 +349,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_9
       rect:
         serializedVersion: 2
-        x: 79
-        y: 87
-        width: 9
-        height: 9
+        x: 15
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,12 +371,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_10
       rect:
         serializedVersion: 2
-        x: 95
-        y: 86
-        width: 11
-        height: 11
+        x: 30
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_11
       rect:
         serializedVersion: 2
-        x: 111
-        y: 71
-        width: 11
-        height: 26
+        x: 45
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,12 +415,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 108
-        height: 75
+        x: 60
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_13
       rect:
         serializedVersion: 2
-        x: 28
-        y: 68
-        width: 8
-        height: 13
+        x: 75
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,12 +459,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_14
       rect:
         serializedVersion: 2
-        x: 92
-        y: 68
-        width: 8
-        height: 13
+        x: 90
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,12 +481,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_15
       rect:
         serializedVersion: 2
-        x: 79
-        y: 35
-        width: 34
-        height: 14
+        x: 105
+        y: 254
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -503,12 +503,12 @@ TextureImporter:
       name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_16
       rect:
         serializedVersion: 2
-        x: 111
-        y: 31
-        width: 17
-        height: 29
+        x: 0
+        y: 239
+        width: 15
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -521,11 +521,2585 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09fbc466a672244dac824fa61dbb11b
+      internalID: -17463227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba37e054403f7af4299691b4e3cbc4f7
+      internalID: 1076875943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408dd02f4ec40b4ba33fe6636990f56
+      internalID: 638759631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b23a88cf01604882d47f3d71b12ff
+      internalID: 617345750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc427acf2ba284cbff11f05e3fb259
+      internalID: -778817123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0730205c9677d4c9e17f67bbe931da
+      internalID: 417278345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056728e8bc2f27c4f9c20cd3ad617990
+      internalID: -1604993574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c368f05d544bab4faec42ca11429f06
+      internalID: -893255069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2af40078568f419333a2a4c9a8fa2
+      internalID: 1341389322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862603d7c59f1194db5b322269bf6f4f
+      internalID: 1518805363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c489a9fa25b88a4b9add65fe9179965
+      internalID: 927710932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc114155e074f12418b06d8f19dbefb5
+      internalID: -61877479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4543dd9a11ccbf46bc30154c123511d
+      internalID: 913362379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5689a18b51c9ca04ab3f8d5c480afd43
+      internalID: -1723993726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6386fad78f361224999af9dc4c1fed99
+      internalID: -1891918481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6eb66fd274e23429ebacba66b16986
+      internalID: 2019406275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4647462a02491d5408c2bde9aed04628
+      internalID: -1683872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50757085ac9c26e4bbcdf9885a4943ad
+      internalID: -69507199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad2ced50e6fea428250c02e8d5e5cb
+      internalID: 642112601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe485c37c94df2f438f9acf1cd8f59c0
+      internalID: -27519316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf543606ef7a54ba30c954d5023428
+      internalID: -2100063600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6ba029e500ae4abfafd609fe9ed8b
+      internalID: 2012672991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7295e799b83f4d99c3051336cc8a3
+      internalID: -509497460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a320be54d69a48489c62b819be75920
+      internalID: -903728864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f935ad1af6a4418ed481866c9fcff
+      internalID: 1880180236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc118fafc0fc094587d198a83fa5409
+      internalID: 160443624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aed5ecc61746348bb641416b6fa483
+      internalID: -1970096883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d296f500c877e4fa4409ed0e354bdd
+      internalID: 511204042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75d9c3bef10b824fbcf76eb68729801
+      internalID: -1130472680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3be802e715ba641bb532f97ccb1436
+      internalID: -258612580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caf31615d1cca642b6c57f74d1cc43f
+      internalID: 1435905366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7869d0a2359104f43a13080d055bc1ce
+      internalID: 1574243487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349f8e3734cbe744cb084613496caeed
+      internalID: -722748580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767c3dc13fdd5784f91e81231be109bb
+      internalID: -434390278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 179
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7a238247adbe4d968aad304bff2b8
+      internalID: 1437201161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b0df103367c543a40c6ac4e8e4b0f
+      internalID: 1623360307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9948b8569c3a94f9c7eae272cded7e
+      internalID: 1698469854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81196c610f24ae438977a8a767478da
+      internalID: -1920124574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af694f8fd08b4458e1894f62b1de2a
+      internalID: -454045499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a08b1aac120f459a213769b818924
+      internalID: -464586183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf69da6b3f968d44ae749255eb7dd4e
+      internalID: 1054378695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be060179e3e5fb4f85ae5b673c4e225
+      internalID: 1652207420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777112ac50319a341ab2dac884418d56
+      internalID: 1638592867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6c80f02fda9584eaebb2c0cc13710a
+      internalID: 1344555400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c7dbb6b94fd84f8747409ecbe2967
+      internalID: 76539263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ed5c0a00545b409be7ad7159e176c
+      internalID: 803792622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc864476e140934d919b47369c1992a
+      internalID: -1795237590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b925476589e0c54c8bc8c27b67d353e
+      internalID: -134484113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c36e4a312ca946b1752d8efbbfb0e
+      internalID: -498097461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc1372a86a13d4aaba588965b93402
+      internalID: -931814433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1b4ef934bb434fb14f06cf4c0328b
+      internalID: 547175751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125bc48a8a1b25647b51d353e116b212
+      internalID: -1661919648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdad6e037526da643bc2faee48464265
+      internalID: -1672762088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b89b7ba7d23244188382c7706230cb
+      internalID: -1011663216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_71
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e1883f610ef64399c3c3519834bdd
+      internalID: -1696973811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb9005769db6d46aa70cdc770b728c
+      internalID: 213548465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf63c327c21da444a76d91e00a3bc8c
+      internalID: 798748264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ade873847d7e4428a699cbb9db12e4
+      internalID: -1813104900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2adbf98384108e48b5c0c03cb2c83f0
+      internalID: 811424520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_76
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcfec7413e1d544919971882514247
+      internalID: 313620936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8013686476ea364da392434f3fbe0e4
+      internalID: 1347255313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d70451bae1fc4d80a7b7366944713
+      internalID: -1758115506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_79
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a01ecdf003a94b9bd547fccc44990
+      internalID: -2117595042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_80
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e8946796f34e4492f30c26b4ddc6d
+      internalID: 1791689444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e049f16b3babc344b31566ac8cfe886
+      internalID: -1333094291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c32aac56fbb4469fe5e5e925cbe57
+      internalID: -1738597888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_83
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910fd4d92d80c04db2047c78be56c7a
+      internalID: 2021248042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_84
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4225b2162460f438680b08fa2a2638
+      internalID: 117003583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f416a9d12bc74ab630a2c43b231a8
+      internalID: 1129723904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_86
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776dfdc53f1c9b84a93c241fff4832fe
+      internalID: 1649046373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec41336f358c44b8a82d6c68c5fb31
+      internalID: -308305867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31755cb42fb7b8f4185afcc9e7dd3241
+      internalID: -830769986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d2c0aa82676a04fba0b246e0b002d3
+      internalID: 631354696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f28bb5c9dfed941a04e162ae75724c
+      internalID: -734812310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639f5f1b6b67b0943bb087d61306eb7a
+      internalID: 917792942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_92
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bd82ea682395e4eb871f6c408b0ef5
+      internalID: -2003632321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_93
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491138080b66a6438bdc60c06d0d9ca
+      internalID: -716906536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_94
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf4d5894674af44a2fe48a7b6eb5b5
+      internalID: 1465087855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebbcf1102fb40409f61446d0d240cd
+      internalID: 1081904980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_96
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53b9c950aca71e49b97fd81bc3c3c42
+      internalID: 2111807069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d619fb94de3d438f0794849761ca6
+      internalID: 1539896739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6468a6055b2cf34e9a24b919b5649e3
+      internalID: 501612083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_99
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd63367b925154fafe2d5bd69dd263
+      internalID: 365424410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dacce094f1dad49a1016f757c82c88
+      internalID: -1868583329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a094eeb0519541b90d85f95beedf2
+      internalID: -1484772486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_102
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae82ca050c5446449f94d6fccbf75de
+      internalID: 347154415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_103
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ee00c9b71f144390ce3cdfb4e1e3f
+      internalID: -1865925969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed63bc82072bf448857e752a960ac23
+      internalID: 1130948115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a96d94a5368a84abe60cb79b53f420
+      internalID: 640497987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51abef41af5657f4c8a3b939a72e5423
+      internalID: -361072131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_107
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea702627be1b4479dd6ed9f1de2319
+      internalID: 925895331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_108
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185435ad229af2b4cbd392f2f348fb5b
+      internalID: -2064408468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_109
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf42922a9e431498636ffa07ecb411
+      internalID: 339204285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a523a0b02971eab449b2d7316c87d17b
+      internalID: -850552254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9365a7791594e04d82966797231547e
+      internalID: 1336298859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_112
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 59
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e88d0d74b4e0f498250660b7a7a438
+      internalID: -1254541834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189449ac2a074a45a93ae97ff4595ac
+      internalID: 40980120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f838345ca9869d40b97c082573b0c4a
+      internalID: -368734095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_115
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0f9b35d1dd0c4bbe43ece0c3614fa
+      internalID: -711147267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_116
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2d41afef0142448e6fdb94105a093
+      internalID: -272040386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_117
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ddb0c385ca1884b80bedfb6c272449
+      internalID: -1069698275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_118
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba289562b885346a61277db8d49f2e
+      internalID: -1093081438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_119
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c01d23e18fa32e4cbd9d5d641d8c52d
+      internalID: -1499857000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_120
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba26863cce99f44dbfc78d11480b7a3
+      internalID: -90199325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd1b4c42bb9ad4d9071c37f41942cc
+      internalID: -1196683931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_122
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c658cb1205c5b4eb15d7c2939ad292
+      internalID: 1042910798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_123
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756328c71b675494cb437023e1eb9af6
+      internalID: 2009909832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_124
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d495eb8dbec94104892a934525c4c968
+      internalID: -2142183864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_125
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b43868b4ba6245bb499d42a5482be
+      internalID: -719474779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_126
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c1384b11b2984daff98018793004b
+      internalID: -2002324232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_127
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2164fe05d5ec0e4ea5482c71a2a80a7
+      internalID: -1652609984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_128
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12cc65c0d4cd3e4c8167cf845c7cd14
+      internalID: 1281639057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03669ecc7aa860d4394b18e020514894
+      internalID: 528208538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84798be849a9f6429da077e8a77c12e
+      internalID: -1261251747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2a6789d79a5f448319c27143be87a
+      internalID: 687138279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_132
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb640b826d573f54c982d01ed09490a9
+      internalID: 1444281336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a20ef567b99bfd42960334b0de25c6d
+      internalID: -158579162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3fc3dcf7c97ea474bb38dea57f4739a7
     internalID: 0
     vertices: []
     indices: 
@@ -533,25 +3107,144 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":15.0,"y":15.0},"gridSpriteOffset":{"x":0.0,"y":4.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_0: 520170045146171358
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_1: -4373262806246421744
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_10: 2471251407584134526
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_100: -1868583329
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_101: -1484772486
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_102: 347154415
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_103: -1865925969
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_104: 1130948115
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_105: 640497987
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_106: -361072131
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_107: 925895331
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_108: -2064408468
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_109: 339204285
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_11: -4507839273958501221
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_110: -850552254
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_111: 1336298859
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_112: -1254541834
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_113: 40980120
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_114: -368734095
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_115: -711147267
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_116: -272040386
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_117: -1069698275
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_118: -1093081438
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_119: -1499857000
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_12: -1794953538071478286
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_120: -90199325
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_121: -1196683931
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_122: 1042910798
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_123: 2009909832
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_124: -2142183864
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_125: -719474779
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_126: -2002324232
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_127: -1652609984
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_128: 1281639057
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_129: 528208538
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_13: 3781967246403483978
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_130: -1261251747
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_131: 687138279
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_132: 1444281336
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_133: -158579162
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_14: 876162731853225640
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_15: 6708887718401680575
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_16: -7465740955849448592
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_17: -17463227
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_18: 1076875943
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_19: 638759631
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_2: -2673809233005035112
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_20: 617345750
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_21: -778817123
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_22: 417278345
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_23: -1604993574
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_24: -893255069
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_25: 1341389322
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_26: 1518805363
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_27: 927710932
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_28: -61877479
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_29: 913362379
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_3: 28118834115340559
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_30: -1723993726
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_31: -1891918481
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_32: 2019406275
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_33: -1683872962
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_34: -69507199
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_35: 642112601
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_36: -27519316
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_37: -2100063600
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_38: 2012672991
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_39: -509497460
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_4: -6713328783425707805
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_40: -903728864
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_41: 1880180236
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_42: 160443624
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_43: -1970096883
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_44: 511204042
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_45: -1130472680
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_46: -258612580
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_47: 1435905366
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_48: 1574243487
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_49: -722748580
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_5: 4710800818937010204
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_50: -434390278
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_51: 1437201161
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_52: 1623360307
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_53: 1698469854
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_54: -1920124574
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_55: -454045499
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_56: -464586183
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_57: 1054378695
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_58: 1652207420
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_59: 1638592867
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_6: 5389767958304615547
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_60: 1344555400
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_61: 76539263
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_62: 803792622
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_63: -1795237590
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_64: -134484113
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_65: -498097461
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_66: -931814433
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_67: 547175751
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_68: -1661919648
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_69: -1672762088
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_7: -3676982486907024735
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_70: -1011663216
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_71: -1696973811
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_72: 213548465
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_73: 798748264
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_74: -1813104900
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_75: 811424520
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_76: 313620936
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_77: 1347255313
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_78: -1758115506
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_79: -2117595042
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_8: 5100731355999560636
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_80: 1791689444
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_81: -1333094291
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_82: -1738597888
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_83: 2021248042
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_84: 117003583
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_85: 1129723904
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_86: 1649046373
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_87: -308305867
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_88: -830769986
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_89: 631354696
       PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_9: -5547644871057884069
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_90: -734812310
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_91: 917792942
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_92: -2003632321
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_93: -716906536
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_94: 1465087855
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_95: 1081904980
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_96: 2111807069
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_97: 1539896739
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_98: 501612083
+      PC _ Computer - Stardew Valley - Unused Content - Menu Elements (1)_99: 365424410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

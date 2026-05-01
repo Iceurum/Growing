@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a6ceae4c9855efb478234db1e306f5ef
+guid: 73e02cd8d58ba0b468fc0d2df427258e
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -100,35 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_0
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 418
-        width: 141
-        height: 155
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7cff56af83e4256f0800000000000000
-      internalID: -697408985662881849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_1
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 418
-        width: 141
-        height: 155
+        x: 0
+        y: 396
+        width: 169
+        height: 198
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +115,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e3ccf34e10b07146a0171afd92ec551
-      internalID: 1099120733
+      spriteID: 08d7226739daf2643b26842c921296d2
+      internalID: -899182115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 263
-        width: 141
-        height: 155
+        x: 169
+        y: 396
+        width: 169
+        height: 198
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28c419e5b412cba4aa7b0e85731904d0
-      internalID: 1049300988
+      spriteID: 453788b252f88aa49b8ebb1daa80a640
+      internalID: 372948078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_3
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_2
       rect:
         serializedVersion: 2
-        x: 157
-        y: 263
-        width: 141
-        height: 155
+        x: 0
+        y: 198
+        width: 169
+        height: 198
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 259c1cffe42a1c0419c3ef0fe19990f5
-      internalID: -1161423265
+      spriteID: d18d23314bf7ef14ebfdf1b773586bd0
+      internalID: 732628828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_4
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 108
-        width: 141
-        height: 155
+        x: 169
+        y: 198
+        width: 169
+        height: 198
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7aef28b6fd71fa45baae83e87b8999b
-      internalID: 1231212024
+      spriteID: d6751b949fe335a46b55f3cca7f87a67
+      internalID: 848312756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_5
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_4
       rect:
         serializedVersion: 2
-        x: 157
-        y: 108
-        width: 141
-        height: 155
+        x: 0
+        y: 0
+        width: 169
+        height: 198
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,8 +203,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e6310a7478724f46b49a20eeb1b4026
-      internalID: 593849313
+      spriteID: 31d88f8f8ef7481428c3c0ec41526b3a
+      internalID: 435515465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 169
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267cc3ee9474a9f45bbec51de67e4743
+      internalID: 485153492
       vertices: []
       indices: 
       edges: []
@@ -245,14 +245,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":141.0,"y":155.0},"gridSpriteOffset":{"x":16.0,"y":21.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":169.0,"y":198.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_0: -697408985662881849
-      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_1: 1099120733
-      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_2: 1049300988
-      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_3: -1161423265
-      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_4: 1231212024
-      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders_5: 593849313
+      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_0: -899182115
+      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_1: 372948078
+      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_2: 732628828
+      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_3: 848312756
+      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_4: 435515465
+      PC _ Computer - Stardew Valley - Miscellaneous - Special Orders 1_5: 485153492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

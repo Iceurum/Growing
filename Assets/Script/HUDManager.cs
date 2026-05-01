@@ -19,9 +19,34 @@ public class HUDManager : MonoBehaviour {
     public Image potatoIcon;
     public TMP_Text potatoCount;
 
+    [Header("Clock")]
+    public TMP_Text gameClock;
+
     [Header("References")]
     public Player player;
     public InventoryManager inventoryManager;
+    public GameTimer gameTimer;
+
+    private int currentHour = 6; // mulai jam 6 pagi
+    private int currentMinute = 0;
+
+    private void OnEnable() {
+        gameTimer.onTick.AddListener(OnTick);
+    }
+
+    private void OnDisable() {
+        gameTimer.onTick.RemoveListener(OnTick);
+    }
+
+    private void OnTick() {
+        currentMinute += 5;
+        if (currentMinute >= 60) {
+            currentMinute = 0;
+            currentHour++;
+            if (currentHour >= 24) currentHour = 0;
+        }
+        UpdateClock();
+    }
 
     private void Update() {
         UpdateSeed();
@@ -45,5 +70,9 @@ public class HUDManager : MonoBehaviour {
     private void UpdateInventory() {
         turnipCount.text = "x" + inventoryManager.GetAmount("Turnip");
         potatoCount.text = "x" + inventoryManager.GetAmount("Potato");
+    }
+
+    private void UpdateClock() {
+        gameClock.text = currentHour.ToString("00") + ":" + currentMinute.ToString("00");
     }
 }
